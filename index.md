@@ -15,7 +15,16 @@ We offer one tool for sustainable ADs: [Embedded Architectural Decisions](https:
 
 ## Related Projects
 
-- [ArchUnit](https://github.com/TNG/ArchUnit) - unit tests for architecture
-- [adr-tools](https://github.com/npryce/adr-tools)
-- [DecisionCapture](https://github.com/schubmat/DecisionCapture)
-- [Architectural Decision Records](https://github.com/joelparkerhenderson/architecture_decision_record) - overview on existing ADR formats
+- Existing Architectural Decision Records
+  - Overview: [Architectural Decision Records](https://github.com/joelparkerhenderson/architecture_decision_record)
+  - Overview: Zimmermann et al.: Architectural Decision Guidance Across Projects - Problem Space Modeling, Decision Backlog Management and Cloud Computing Knowledge. WICSA 2015: 85-94.
+    Author's copy available at [ADMentor].
+  - [DecisionCapture](https://github.com/schubmat/DecisionCapture) - Templates for agile projects. [example](https://github.com/schubmat/DecisionCapture/blob/master/samples/samples_simpleTemplate_secondSprint.md).
+  - [Sustainable Architectural Decisions](https://www.infoq.com/articles/sustainable-architectural-design-decisions)
+- Tooling
+  - [ADMentor] - Architectural Decision Modeling Add-In for [Sparx Enterprise Architect](https://www.sparxsystems.de/uml/neweditions/)
+  - [adr-tools](https://github.com/npryce/adr-tools) - bash scripts to manage ADRs in the [Nygard format](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions).
+  [example](https://github.com/npryce/adr-tools/blob/master/doc/adr/0002-implement-as-shell-scripts.md).
+  - [ArchUnit](https://github.com/TNG/ArchUnit) - unit tests for architecture
+
+  [ADMentor]: https://www.ifs.hsr.ch/index.php?id=13201&L=4
