@@ -2,9 +2,8 @@
 
 An [Architectural Decision (AD)](https://en.wikipedia.org/wiki/Architectural_decision) is a software design choice that addresses a functional or non-functional requirement that is architecturally significant. 
 An [architecturally significant requirement (ASR)](https://en.wikipedia.org/wiki/Architecturally_significant_requirements) is a requirement that has a measurable effect on a software system’s architecture and quality. 
-An Architectural Decision Record (ADR) captures an AD, such as by writing personal notes or meeting minutes.
-
-All these are within the topic of architectural knowledge management (AKM). [source](https://github.com/joelparkerhenderson/architecture_decision_record/blob/01cc3c801b1cc61f82391a0a08986e4145e21c56/README.md)
+An Architectural Decision Record (ADR) captures a single AD, such as often done when writing personal notes or meeting minutes.
+All these are within the topic of Architectural Knowledge Management (AKM). Note: this short intro to ADRs is based on information in [this repo](https://github.com/joelparkerhenderson/architecture_decision_record/blob/01cc3c801b1cc61f82391a0a08986e4145e21c56/README.md)
 
 The aim of the [GitHub adr organization](http://github.com/adr) is to
 (i) strenghten the tooling around ADRs and to
