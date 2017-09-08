@@ -12,7 +12,7 @@ The aim of this [GitHub adr organization](http://github.com/adr) is to:
 
 We currently base our work on the guidelines and principles in [Sustainable Architectural Decisions](https://www.infoq.com/articles/sustainable-architectural-design-decisions) by Zdun et al., for instance the Y-statement format suggested in that article. Howver, we are open to other formats of ADRs as shown at <https://github.com/joelparkerhenderson/architecture_decision_record>.
 
-At present, this [GitHub adr organization] offer one tool for sustainable ADs: [Embedded Architectural Decision Logs](https://github.com/adr/embedded-adl), which shows how a distributed AD log can be embedded in Java Code via ADR annotations.
+At present, this [GitHub adr organization](http://github.com/adr) offer one tool for sustainable ADs: [Embedded Architectural Decision Logs](https://github.com/adr/embedded-adl), which shows how a distributed AD log can be embedded in Java Code via ADR annotations.
 
 ## Related Projects
 
