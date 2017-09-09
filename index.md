@@ -20,6 +20,10 @@ Howver, we are open to other formats of ADRs as shown at <https://github.com/joe
 - [Embedded Architectural Decision Logs](https://github.com/adr/embedded-adl), which shows how a distributed AD log can be embedded in Java Code via ADR annotations.
 - [eadlsync](https://github.com/adr/eadlsync) - Synchronizes embedded architectural decision records with a repository of architectural decitions.
 
+## Relation of ADRs, madr, and others
+
+![ADR](ADR.png)
+
 ## Related Projects
 
 - Existing ADR templates 
