@@ -34,4 +34,6 @@ Howver, we are open to other formats of ADRs as shown at <https://github.com/joe
   [example](https://github.com/npryce/adr-tools/blob/master/doc/adr/0002-implement-as-shell-scripts.md).
   - [ArchUnit](https://github.com/TNG/ArchUnit) - unit tests for architecture
 
-- More related work: https://github.com/joelparkerhenderson/architecture_decision_record#sources
+- More related work:
+ - https://github.com/joelparkerhenderson/architecture_decision_record#sources
+ - [Method Selection and Tailoring](https://www.ifs.hsr.ch/Method-Selection-and-Tailoring.13195.0.html?&L=4)
