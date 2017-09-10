@@ -5,8 +5,8 @@ hide members
 abstract class ADR {
 }
 
-ADR <|-- madr
-class madr {
+ADR <|-- MADR
+class MADR {
 }
 
 

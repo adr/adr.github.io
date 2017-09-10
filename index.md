@@ -6,21 +6,22 @@ An *Architectural Decision Record (ADR)* captures a single AD, such as often don
 All these are within the topic of Architectural Knowledge Management (AKM).
 Note: this short intro to ADRs is based on information in [Joel Parkerhenderson's GitHub repo](https://github.com/joelparkerhenderson/architecture_decision_record/blob/01cc3c801b1cc61f82391a0a08986e4145e21c56/README.md).
 
-The aim of this [GitHub adr organization](http://github.com/adr) is to:
+The aim of the [GitHub adr organization](http://github.com/adr) is to:
+
 1. Motivate the need for and benefits of AD capturing and establish a common vocabulary 
-2. Strenghten the tooling around ADRs, in support of agile practices and iterative and incremental software engineering processes
-3. Provide provide pointers to public knowledge in the context of AKM and ADRs (for instance, [this website](https://www.ifs.hsr.ch/index.php?id=13201&L=4))
+2. Strengthen the tooling around ADRs, in support of agile practices as well as iterative and incremental software engineering processes
+3. Provide pointers to public knowledge in the context of AKM and ADRs (for instance, [this website](https://www.ifs.hsr.ch/index.php?id=13201&L=4))
 
 We currently base our work on the guidelines and principles in [Sustainable Architectural Decisions](https://www.infoq.com/articles/sustainable-architectural-design-decisions) by Zdun et al., for instance the Y-statement format suggested in that article.
-Howver, we are open to other formats of ADRs as shown at <https://github.com/joelparkerhenderson/architecture_decision_record>.
+However, we are open to other formats of ADRs as shown at <https://github.com/joelparkerhenderson/architecture_decision_record>.
 
 ## Offered Projects
 
-- [madr](https://github.com/adr/madr) - The Markdown Architecture Decision Records. Lean ADRs to quickly document architectural decisions in code.
+- [MADR](https://github.com/adr/madr) - The Markdown Architecture Decision Records. Lean ADRs to quickly document architectural decisions in code.
 - [Embedded Architectural Decision Records](https://github.com/adr/e-adr), which shows how a distributed AD log can be embedded in Java Code via ADR annotations.
 - [eadlsync](https://github.com/adr/eadlsync) - Synchronizes embedded architectural decision records with a repository of architectural decitions.
 
-## Relation of ADRs, madr, and others
+## Relation of ADRs, MADR, and others
 
 ![ADR](ADR.png)
 
