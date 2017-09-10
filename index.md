@@ -17,7 +17,7 @@ Howver, we are open to other formats of ADRs as shown at <https://github.com/joe
 ## Offered Projects
 
 - [madr](https://github.com/adr/madr) - The Markdown Architecture Decision Records. Lean ADRs to quickly document architectural decisions in code.
-- [Embedded Architectural Decision Logs](https://github.com/adr/embedded-adl), which shows how a distributed AD log can be embedded in Java Code via ADR annotations.
+- [Embedded Architectural Decision Records](https://github.com/adr/e-adr), which shows how a distributed AD log can be embedded in Java Code via ADR annotations.
 - [eadlsync](https://github.com/adr/eadlsync) - Synchronizes embedded architectural decision records with a repository of architectural decitions.
 
 ## Relation of ADRs, madr, and others
