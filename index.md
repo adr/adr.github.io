@@ -12,8 +12,26 @@ The aim of the [GitHub adr organization](http://github.com/adr) is to:
 2. Strengthen the tooling around ADRs, in support of agile practices as well as iterative and incremental software engineering processes
 3. Provide pointers to public knowledge in the context of AKM and ADRs (for instance, [this website](https://www.ifs.hsr.ch/index.php?id=13201&L=4))
 
-We currently base our work on the guidelines and principles in [Sustainable Architectural Decisions](https://www.infoq.com/articles/sustainable-architectural-design-decisions) by Zdun et al., for instance the Y-statement format suggested in that article.
+
+## Sustainable Architectural Decisions
+
+We base our work on the guidelines and principles in [Sustainable Architectural Decisions](https://www.infoq.com/articles/sustainable-architectural-design-decisions) by Zdun et al., for instance the Y-statement format suggested in that article.
 However, we are open to other formats of ADRs as shown at <https://github.com/joelparkerhenderson/architecture_decision_record>.
+
+In short, that Y-statement is as follows:
+
+> In the context of `<use case/user story u>`, facing `<concern c>` we decided for `<option o>` to achieve `<quality q>`, accepting `<downside d>`.
+
+The long form of it is as follows:
+
+> In the context of `<use case/user story u>`,
+> facing `<concern c>`
+> we decided for `<option o>`
+> and neglected `<other options>`,
+> to achieve `<system qualities/desired consequences>`,
+> accepting `<downside d/undesired consequences>`,
+> because `<additional rationale>`.
+
 
 ## Offered Projects
 
@@ -21,9 +39,11 @@ However, we are open to other formats of ADRs as shown at <https://github.com/jo
 - [Embedded Architectural Decision Records](https://github.com/adr/e-adr), which shows how a distributed AD log can be embedded in Java Code via ADR annotations.
 - [eadlsync](https://github.com/adr/eadlsync) - Synchronizes embedded architectural decision records with a repository of architectural decitions.
 
+
 ## Relation of ADRs, MADR, and others
 
 ![ADR](ADR.png)
+
 
 ## Related Projects
 
