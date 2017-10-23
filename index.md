@@ -53,7 +53,7 @@ The long form of it is as follows:
   - Overview: [Architectural Decision Records](https://github.com/joelparkerhenderson/architecture_decision_record) - collection of markdown templates converted to markdown
   - [Sustainable Architectural Decisions](https://www.infoq.com/articles/sustainable-architectural-design-decisions)
   - Comparison of seven templates: Zimmermann et al.: [Architectural Decision Guidance Across Projects - Problem Space Modeling, Decision Backlog Management and Cloud Computing Knowledge](http://www.ifs.hsr.ch/fileadmin/user_upload/customers/ifs.hsr.ch/Home/projekte/ADMentor-WICSA2015ubmissionv11nc.pdf). WICSA 2015: 85-94. 
-  - [DecisionCapture](https://github.com/schubmat/DecisionCapture) - Templates for agile projects. [example](https://github.com/schubmat/DecisionCapture/blob/master/samples/samples_simpleTemplate_secondSprint.md).
+  - [DecisionCapture](https://schubmat.github.io/DecisionCapture/) - Templates for agile projects and explanation of the ADR universe. [example](https://github.com/schubmat/DecisionCapture/blob/master/samples/samples_simpleTemplate_secondSprint.md).
 
 - Tooling
   - [ADMentor](https://github.com/IFS-HSR/ADMentor) Architectural Decision Modeling Add-In for [Sparx Enterprise Architect](https://www.sparxsystems.de/uml/neweditions/)
