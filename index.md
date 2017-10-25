@@ -37,8 +37,8 @@ The long form of it is as follows:
 
 - [MADR](https://adr.github.io/madr/) - The Markdown Architecture Decision Records (MADR: `[ˈmæɾɚ]`). Lean ADRs to quickly document architectural decisions in code. - Slogan: architectural decisions that [matter `[ˈmæɾɚ]`](https://en.wiktionary.org/wiki/matter#Pronunciation).
 - [adr-toc](https://adr.github.io/adr-log/) - Generates a architectural decision log out of MADRs.
-- [Embedded Architectural Decision Records](https://github.com/adr/e-adr), which shows how a distributed AD log can be embedded in Java Code via ADR annotations.
-- [eadlsync](https://github.com/adr/eadlsync) - Synchronizes embedded architectural decision records with a repository of architectural decitions.
+- [Embedded Architectural Decision Records](https://adr.github.io/e-adr/), which shows how a distributed AD log can be embedded in Java Code via ADR annotations.
+- [eadlsync](https://adr.github.io/eadlsync/) - Synchronizes embedded architectural decision records with a repository of architectural decitions.
 - [SE Repo](https://github.com/adr/serepo) - Software Engineering Repository. A repository for versioning software engineering artifacts, which can be architectural decisions, patterns, and others.
 
 
@@ -60,6 +60,7 @@ The long form of it is as follows:
   - [adr-tools](https://github.com/npryce/adr-tools) - bash scripts to manage ADRs in the [Nygard format](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions).
   [example](https://github.com/npryce/adr-tools/blob/master/doc/adr/0002-implement-as-shell-scripts.md).
   - [ArchUnit](https://github.com/TNG/ArchUnit) - unit tests for architecture
+  - [docToolchain](https://doctoolchain.github.io/docToolchain/) - docToolchain is an implementation of the [docs-as-code](http://www.writethedocs.org/guide/docs-as-code/) approach for software architecture plus some additional automation.
 
 - More related work:
   - <https://github.com/joelparkerhenderson/architecture_decision_record#sources>
