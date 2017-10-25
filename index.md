@@ -52,7 +52,7 @@ The long form of it is as follows:
 - Existing ADR templates 
   - Overview: [Architectural Decision Records](https://github.com/joelparkerhenderson/architecture_decision_record) - collection of markdown templates converted to markdown
   - [Sustainable Architectural Decisions](https://www.infoq.com/articles/sustainable-architectural-design-decisions)
-  - Comparison of seven templates: Zimmermann et al.: [Architectural Decision Guidance Across Projects - Problem Space Modeling, Decision Backlog Management and Cloud Computing Knowledge](http://www.ifs.hsr.ch/fileadmin/user_upload/customers/ifs.hsr.ch/Home/projekte/ADMentor-WICSA2015ubmissionv11nc.pdf). WICSA 2015: 85-94. 
+  - Comparison of seven templates: Zimmermann et al.: [Architectural Decision Guidance Across Projects - Problem Space Modeling, Decision Backlog Management and Cloud Computing Knowledge](http://www.ifs.hsr.ch/fileadmin/user_upload/customers/ifs.hsr.ch/Home/projekte/ADMentor-WICSA2015ubmissionv11nc.pdf). WICSA 2015: 85-94.
   - [DecisionCapture](https://schubmat.github.io/DecisionCapture/) - Templates for agile projects and explanation of the ADR universe. [example](https://github.com/schubmat/DecisionCapture/blob/master/samples/samples_simpleTemplate_secondSprint.md).
 
 - Tooling
@@ -61,6 +61,7 @@ The long form of it is as follows:
   [example](https://github.com/npryce/adr-tools/blob/master/doc/adr/0002-implement-as-shell-scripts.md).
   - [ArchUnit](https://github.com/TNG/ArchUnit) - unit tests for architecture
   - [docToolchain](https://doctoolchain.github.io/docToolchain/) - docToolchain is an implementation of the [docs-as-code](http://www.writethedocs.org/guide/docs-as-code/) approach for software architecture plus some additional automation.
+  - [Structurizr](https://www.structurizr.com/) - Structurizr is a collection of tooling to help you visualise, document and explore your software architecture using the [C4 model](https://c4model.com/).
 
 - More related work:
   - <https://github.com/joelparkerhenderson/architecture_decision_record#sources>
