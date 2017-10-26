@@ -64,5 +64,7 @@ The long form of it is as follows:
   - [Structurizr](https://www.structurizr.com/) - Structurizr is a collection of tooling to help you visualise, document and explore your software architecture using the [C4 model](https://c4model.com/).
 
 - More related work:
+  - [Architectural Knowledge Management (AKM) overview by HSR FHO](https://www.ifs.hsr.ch/index.php?id=13191&L=4)
   - <https://github.com/joelparkerhenderson/architecture_decision_record#sources>
   - [Method Selection and Tailoring](https://www.ifs.hsr.ch/Method-Selection-and-Tailoring.13195.0.html?&L=4)
+  - [Work by Daniel Popescu](https://scholar.google.com/citations?user=dASv28sAAAAJ)
