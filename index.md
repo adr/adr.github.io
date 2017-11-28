@@ -59,6 +59,9 @@ The long form of it is as follows:
   - [ADMentor](https://github.com/IFS-HSR/ADMentor) Architectural Decision Modeling Add-In for [Sparx Enterprise Architect](https://www.sparxsystems.de/uml/neweditions/)
   - [adr-tools](https://github.com/npryce/adr-tools) - bash scripts to manage ADRs in the [Nygard format](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions).
   [example](https://github.com/npryce/adr-tools/blob/master/doc/adr/0002-implement-as-shell-scripts.md).
+    - Java rewrite: [adr-j](https://github.com/adoble/adr-j)
+    - C# rewrite: [adr-cli](https://github.com/GingerTommy/adr-cli)
+    - Ansible script to install adr-tools: [ansible-adr-tools](https://github.com/escalate/ansible-adr-tools)
   - [ArchUnit](https://github.com/TNG/ArchUnit) - unit tests for architecture
   - [docToolchain](https://doctoolchain.github.io/docToolchain/) - docToolchain is an implementation of the [docs-as-code](http://www.writethedocs.org/guide/docs-as-code/) approach for software architecture plus some additional automation.
   - [Structurizr](https://www.structurizr.com/) - Structurizr is a collection of tooling to help you visualise, document and explore your software architecture using the [C4 model](https://c4model.com/).
