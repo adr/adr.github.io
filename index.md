@@ -23,7 +23,7 @@ We offer [MADR](https://adr.github.io/madr/) - The Markdown Architecture Decisio
 ## Offered Projects
 
 - [MADR](https://adr.github.io/madr/) - The Markdown Architecture Decision Records (MADR: `[ˈmæɾɚ]`). Lean ADRs to quickly document architectural decisions in code. - Slogan: architectural decisions that [matter `[ˈmæɾɚ]`](https://en.wiktionary.org/wiki/matter#Pronunciation).
-- [adr-toc](https://adr.github.io/adr-log/) - Generates a architectural decision log out of MADRs.
+- [adr-log](https://adr.github.io/adr-log/) - Generates a architectural decision log out of MADRs.
 - [Embedded Architectural Decision Records](https://adr.github.io/e-adr/), which shows how a distributed AD log can be embedded in Java Code via ADR annotations.
 - [eadlsync](https://adr.github.io/eadlsync/) - Synchronizes embedded architectural decision records with a repository of architectural decitions.
 - [SE Repo](https://github.com/adr/serepo) - Software Engineering Repository. A repository for versioning software engineering artifacts, which can be architectural decisions, patterns, and others.
@@ -65,7 +65,13 @@ The long form of it is as follows:
   [example](https://github.com/npryce/adr-tools/blob/master/doc/adr/0002-implement-as-shell-scripts.md).
     - Java rewrite: [adr-j](https://github.com/adoble/adr-j)
     - C# rewrite: [adr-cli](https://github.com/GingerTommy/adr-cli)
+    - Go rewrite: [adr](https://github.com/marouni/adr)
     - Ansible script to install adr-tools: [ansible-adr-tools](https://github.com/escalate/ansible-adr-tools)
+  - adr-tools based  tools - other tools to manage ADRs (with a different syntax) 
+    - PHP version: [phpadr](https://github.com/globtec/phpadr)    
+    - A Powershell module: [adr-ps](https://github.com/rdagumampan/adr-ps)
+    - Another Powershell module: [ArchitectureDecisionRecords](https://github.com/ajoberstar/ArchitectureDecisionRecords)
+  - [adr-viewer](https://github.com/mrwilson/adr-viewer) - python application to generate a website from a set of ADRs.
   - [ArchUnit](https://github.com/TNG/ArchUnit) - unit tests for architecture
   - [docToolchain](https://doctoolchain.github.io/docToolchain/) - docToolchain is an implementation of the [docs-as-code](http://www.writethedocs.org/guide/docs-as-code/) approach for software architecture plus some additional automation.
   - [Structurizr](https://www.structurizr.com/) - Structurizr is a collection of tooling to help you visualise, document and explore your software architecture using the [C4 model](https://c4model.com/).
