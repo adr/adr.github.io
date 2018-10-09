@@ -14,6 +14,7 @@ The aim of the [GitHub adr organization](http://github.com/adr) is to:
 
 **Note:** The term "architecure decision record" can be used interchangeably.
 
+{: .long}
 ## Lightweight Architectural Decision Records Should be Adopted
 
 [ThoughtWorks](https://www.thoughtworks.com/) lists architectural decision records as "adopt" at their [technology radar](https://www.thoughtworks.com/radar/techniques).
