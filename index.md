@@ -12,7 +12,7 @@ The aim of the [GitHub adr organization](http://github.com/adr) is to:
 2. Strengthen the tooling around ADRs, in support of agile practices as well as iterative and incremental software engineering processes
 3. Provide pointers to public knowledge in the context of AKM and ADRs (for instance, [this website](https://www.ifs.hsr.ch/index.php?id=13201&L=4))
 
-**Note:** The term "architecure decision record" can be used interchangeably.
+**Note:** The term "architecture decision record" can be used interchangeably.
 
 {: .long}
 ## Lightweight Architectural Decision Records Should be Adopted
