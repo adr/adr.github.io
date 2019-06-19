@@ -18,19 +18,11 @@ The aim of the [GitHub adr organization](http://github.com/adr) is to:
 
 [ThoughtWorks](https://www.thoughtworks.com/) lists architectural decision records as "adopt" at their [technology radar vol. 18](https://assets.thoughtworks.com/assets/technology-radar-vol-18-en.pdf).
 
-The first published lightweight ADR [consists of title, status, context, decision, and consequences](https://github.com/joelparkerhenderson/architecture_decision_record/blob/master/adr_template_by_michael_nygard.md).
+The first published lightweight ADR [consists of title, status, context, decision, and consequences](https://github.com/joelparkerhenderson/architecture_decision_record/blob/master/adr_template_by_michael_nygard.md) (by [@mtnygard](https://github.com/mtnygard)).
 
 We think, that the considered options are cruicial to understand the reason of a chosen option. Thus, we propose [MADR](https://adr.github.io/madr/) - The Markdown Architecture Decision Records (MADR: `[ˈmæɾɚ]`) as alternative in the ADR organization.
 
-## Offered Projects
-
-- [MADR](https://adr.github.io/madr/) - The Markdown Architecture Decision Records (MADR: `[ˈmæɾɚ]`). Lean ADRs to quickly document architectural decisions in code. - Slogan: architectural decisions that [matter `[ˈmæɾɚ]`](https://en.wiktionary.org/wiki/matter#Pronunciation).
-- [adr-log](https://adr.github.io/adr-log/) - Generates a architectural decision log out of MADRs.
-- [Embedded Architectural Decision Records](https://adr.github.io/e-adr/), which shows how a distributed AD log can be embedded in Java Code via ADR annotations.
-- [eadlsync](https://adr.github.io/eadlsync/) - Synchronizes embedded architectural decision records with a repository of architectural decitions.
-- [SE Repo](https://github.com/adr/serepo) - Software Engineering Repository. A repository for versioning software engineering artifacts, which can be architectural decisions, patterns, and others.
-
-## Relation of ADRs, MADR, and others
+## Relation of ADRs, MADR, and Others
 
 ![ADR](ADR.png)
 
@@ -53,9 +45,17 @@ The long form of it is as follows:
 > accepting `<downside d/undesired consequences>`,
 > because `<additional rationale>`.
 
+## Offered Projects
+
+- [MADR](https://adr.github.io/madr/) - The Markdown Architecture Decision Records (MADR: `[ˈmæɾɚ]`). Lean ADRs to quickly document architectural decisions in code. - Slogan: architectural decisions that [matter `[ˈmæɾɚ]`](https://en.wiktionary.org/wiki/matter#Pronunciation).
+- [adr-log](https://adr.github.io/adr-log/) - Generates a architectural decision log out of MADRs.
+- [Embedded Architectural Decision Records](https://adr.github.io/e-adr/), which shows how a distributed AD log can be embedded in Java Code via ADR annotations.
+- [eadlsync](https://adr.github.io/eadlsync/) - Synchronizes embedded architectural decision records with a repository of architectural decitions.
+- [SE Repo](https://github.com/adr/serepo) - Software Engineering Repository. A repository for versioning software engineering artifacts, which can be architectural decisions, patterns, and others.
+
 ## Related Projects
 
-### Existing ADR templates
+### Existing ADR Templates
 
 - Overview: [Architectural Decision Records](https://github.com/joelparkerhenderson/architecture_decision_record) - collection of markdown templates converted to markdown
 - [Sustainable Architectural Decisions](https://www.infoq.com/articles/sustainable-architectural-design-decisions)
@@ -80,7 +80,7 @@ The long form of it is as follows:
 - [docToolchain](https://doctoolchain.github.io/docToolchain/) - docToolchain is an implementation of the [docs-as-code](http://www.writethedocs.org/guide/docs-as-code/) approach for software architecture plus some additional automation.
 - [Structurizr](https://www.structurizr.com/) - Structurizr is a collection of tooling to help you visualise, document and explore your software architecture using the [C4 model](https://c4model.com/).
 
-### More related work
+### More Related Work
 
 - [Architectural Knowledge Management (AKM) overview by HSR FHO](https://www.ifs.hsr.ch/index.php?id=13191&L=4)
 - [Overview on all variants of ADRs](https://github.com/joelparkerhenderson/architecture_decision_record#sources)
