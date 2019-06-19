@@ -79,7 +79,7 @@ The long form of it is as follows:
 
 ### More related work:
   - [Architectural Knowledge Management (AKM) overview by HSR FHO](https://www.ifs.hsr.ch/index.php?id=13191&L=4)
-  - <https://github.com/joelparkerhenderson/architecture_decision_record#sources>
+  - [Overview on all variants of ADRs](https://github.com/joelparkerhenderson/architecture_decision_record#sources)
   - [Method Selection and Tailoring](https://www.ifs.hsr.ch/Method-Selection-and-Tailoring.13195.0.html?&L=4)
   - [Work by Daniel Popescu](https://scholar.google.com/citations?user=dASv28sAAAAJ)
   - [Architecture Decision Records in Action by Michael Keeling (IBM Watson Group) and Joe Runde (IBM)](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=497744) - presentation including empirical numbers.
