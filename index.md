@@ -36,7 +36,7 @@ We offer [MADR](https://adr.github.io/madr/) - The Markdown Architecture Decisio
 ## Sustainable Architectural Decisions
 
 We base our work on the guidelines and principles in [Sustainable Architectural Decisions](https://www.infoq.com/articles/sustainable-architectural-design-decisions) by Zdun et al., for instance the Y-statement format suggested in that article.
-However, we are open to other formats of ADRs as shown at <https://github.com/joelparkerhenderson/architecture_decision_record>.
+However, we are open to other formats of ADRs as shown at [@joelparkerhenderson's repository](https://github.com/joelparkerhenderson/architecture_decision_record).
 
 In short, that Y-statement is as follows:
 
