@@ -17,6 +17,7 @@ The aim of the [GitHub adr organization](http://github.com/adr) is to:
 ## Lightweight Architectural Decision Records Should be Adopted
 
 [ThoughtWorks](https://www.thoughtworks.com/) lists architectural decision records as "adopt" at their [technology radar vol. 18](https://assets.thoughtworks.com/assets/technology-radar-vol-18-en.pdf).
+[It is still listed as "adopt"](https://www.thoughtworks.com/de/radar/techniques/lightweight-architecture-decision-records).
 
 The first published lightweight ADR [consists of title, status, context, decision, and consequences](https://github.com/joelparkerhenderson/architecture_decision_record/blob/master/adr_template_by_michael_nygard.md) (by [@mtnygard](https://github.com/mtnygard)).
 
