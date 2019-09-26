@@ -83,6 +83,7 @@ The long form of it is as follows:
 
 ### More Related Work
 
+- [Documenting Architecture Decisions by Michael Nygard](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions)
 - [Architectural Knowledge Management (AKM) overview by HSR FHO](https://www.ifs.hsr.ch/index.php?id=13191&L=4)
 - [Overview on all variants of ADRs](https://github.com/joelparkerhenderson/architecture_decision_record#sources)
 - [Method Selection and Tailoring](https://www.ifs.hsr.ch/Method-Selection-and-Tailoring.13195.0.html?&L=4)
