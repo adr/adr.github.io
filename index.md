@@ -21,7 +21,7 @@ The aim of the [GitHub adr organization](http://github.com/adr) is to:
 
 The first published lightweight ADR [consists of title, status, context, decision, and consequences](https://github.com/joelparkerhenderson/architecture_decision_record/blob/master/adr_template_by_michael_nygard.md) (by [@mtnygard](https://github.com/mtnygard)).
 
-We think, that the considered options are cruicial to understand the reason of a chosen option. Thus, we propose [MADR](https://adr.github.io/madr/) - The Markdown Architecture Decision Records (MADR: `[ˈmæɾɚ]`) as alternative in the ADR organization.
+We think that the considered options are cruicial to understand the reason of a chosen option. Thus, we propose [MADR](https://adr.github.io/madr/) - The Markdown Architecture Decision Records (MADR: `[ˈmæɾɚ]`) as alternative in the ADR organization.
 
 ## Relation of ADRs, MADR, and Others
 
