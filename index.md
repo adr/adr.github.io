@@ -13,6 +13,10 @@ The aim of the [GitHub adr organization](http://github.com/adr) is to:
 
 > Note: The term "architecture decision record" can be used interchangeably.
 
+## ADRs in the media
+
+* (German) [Gut dokumentiert: Architecture Decision Records](https://www.heise.de/hintergrund/Gut-dokumentiert-Architecture-Decision-Records-4664988.html) by [@obfischer](https://github.com/obfischer) published at [heise online](https://www.heise.de/).
+
 {: .long}
 ## Lightweight Architectural Decision Records Should be Adopted
 
