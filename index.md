@@ -78,7 +78,7 @@ You can find more explanations and examples on Medium [Y-Statements --- A Light 
 ### Tooling
 
 - [ADMentor](https://github.com/IFS-HSR/ADMentor) Architectural Decision Modeling Add-In for [Sparx Enterprise Architect](https://www.sparxsystems.de/uml/neweditions/)
-- [adr-tools](https://github.com/npryce/adr-tools) - bash scripts to manage ADRs in the [Nygard format](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions).
+- [adr-tools](https://github.com/npryce/adr-tools) - bash scripts to manage ADRs in the [Nygard format](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions.html).
 [example](https://github.com/npryce/adr-tools/blob/master/doc/adr/0002-implement-as-shell-scripts.md).
 - Java rewrite: [adr-j](https://github.com/adoble/adr-j)
 - C# rewrite: [adr-cli](https://github.com/GingerTommy/adr-cli)
@@ -96,7 +96,7 @@ You can find more explanations and examples on Medium [Y-Statements --- A Light 
 
 ### More Related Work
 
-- [Documenting Architecture Decisions by Michael Nygard](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions)
+- [Documenting Architecture Decisions by Michael Nygard](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions.html)
 - [Architectural Knowledge Management (AKM) overview by HSR FHO](https://www.ifs.hsr.ch/index.php?id=13191&L=4)
 - [Sustainable Architectural Decisions](https://www.infoq.com/articles/sustainable-architectural-design-decisions)
 - [Overview on all variants of ADRs](https://github.com/joelparkerhenderson/architecture_decision_record#sources)
