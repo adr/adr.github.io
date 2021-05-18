@@ -83,6 +83,7 @@ You can find more explanations and examples on Medium [Y-Statements --- A Light 
 - Java rewrite: [adr-j](https://github.com/adoble/adr-j)
 - C# rewrite: [adr-cli](https://github.com/GingerTommy/adr-cli)
 - Go rewrite: [adr](https://github.com/marouni/adr)
+- Node.js rewrite: [adr](https://github.com/phodal/adr)
 - Ansible script to install adr-tools: [ansible-adr-tools](https://github.com/escalate/ansible-adr-tools)
 - `adr-tools` based tools: other tools to manage ADRs (with a different syntax)
 - PHP version: [phpadr](https://github.com/globtec/phpadr)
