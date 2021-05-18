@@ -76,6 +76,7 @@ You can find more explanations and examples on Medium [Y-Statements --- A Light 
   - Node.js rewrite: [adr](https://github.com/phodal/adr)
   - PHP version: [phpadr](https://github.com/globtec/phpadr)
   - Powershell module: [adr-ps](https://github.com/rdagumampan/adr-ps)
+  - Python rewrite: [adr-tools-pyhton](https://pypi.org/project/adr-tools-python/)
   - Another Powershell module: [ArchitectureDecisionRecords](https://github.com/ajoberstar/ArchitectureDecisionRecords)
 - [adr-log](https://adr.github.io/adr-log/): Generates a architectural decision log out of MADRs.
 - [adr-manager](https://adr.github.io/adr-manager/#/): Craft MADR templates directly in the Web Browser.
