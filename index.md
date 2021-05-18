@@ -93,6 +93,7 @@ You can find more explanations and examples on Medium [Y-Statements --- A Light 
 - [ArchUnit](https://github.com/TNG/ArchUnit); unit tests for architecture
 - [docToolchain](https://doctoolchain.github.io/docToolchain/): docToolchain is an implementation of the [docs-as-code](http://www.writethedocs.org/guide/docs-as-code/) approach for software architecture plus some additional automation.
 - [Structurizr](https://www.structurizr.com/): Structurizr is a collection of tooling to help you visualise, document and explore your software architecture using the [C4 model](https://c4model.com/).
+- [Log4brains](https://github.com/thomvaill/log4brains): CLI and web UI to log and publish your ADRs as a static website
 
 
 ### More Related Work
