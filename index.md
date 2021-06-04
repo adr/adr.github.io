@@ -105,3 +105,4 @@ You can find more explanations and examples on Medium [Y-Statements --- A Light 
 - [Work by Daniel Popescu](https://scholar.google.com/citations?user=dASv28sAAAAJ)
 - [Architecture Decision Records in Action by Michael Keeling (IBM Watson Group) and Joe Runde (IBM)](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=497744) - presentation including empirical numbers.
 - [Documenting Architecture Decisions](https://www.fabian-keller.de/blog/documenting-architecture-decisions) - Blog entry by Fabian Keller
+- [From Architectural Decisions to Design Decisions](https://medium.com/olzzio/from-architectural-decisions-to-design-decisions-f05f6d57032b) and [ADR = Any Decision Record?](https://medium.com/olzzio/adr-any-decision-record-916d1b64b28d) - two blog posts by Olaf Zimmermann proposing to exted the scope of ADRs.
