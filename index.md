@@ -23,7 +23,7 @@ The aim of the [GitHub adr organization](http://github.com/adr) is to:
 [ThoughtWorks](https://www.thoughtworks.com/) lists architectural decision records as "adopt" at their [technology radar vol. 18](https://assets.thoughtworks.com/assets/technology-radar-vol-18-en.pdf).
 [It is still listed as "adopt"](https://www.thoughtworks.com/de/radar/techniques/lightweight-architecture-decision-records).
 
-A "lightweight" ADR consists of [title, status, context, decision, and consequences](https://github.com/joelparkerhenderson/architecture_decision_record/blob/master/adr_template_by_michael_nygard.md) (according to [@mtnygard](https://github.com/mtnygard)). 
+A "lightweight" ADR consists of [title, status, context, decision, and consequences](https://github.com/joelparkerhenderson/architecture-decision-record/blob/main/templates/decision-record-template-by-michael-nygard/index.md) (according to [@mtnygard](https://github.com/mtnygard)). 
 <!-- [W] changed, certainly not the first, as my "History" section shows: https://www.ozimmer.ch/practices/2020/04/27/ArchitectureDecisionMaking.html -->
 
 We think that the considered options are crucial to understand the reason of a chosen option. Thus, we propose [MADR](https://adr.github.io/madr/) --- The Markdown Architecture Decision Records (MADR: `[ˈmæɾɚ]`) as alternative in this ADR organization.
