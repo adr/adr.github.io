@@ -3,7 +3,7 @@
 An [Architectural Decision (AD)](https://en.wikipedia.org/wiki/Architectural_decision) is a software design choice that addresses a functional or non-functional requirement that is architecturally significant.
 An [Architecturally Significant Requirement (ASR)](https://en.wikipedia.org/wiki/Architecturally_significant_requirements) is a requirement that has a measurable effect on a software system’s architecture and quality.
 An *Architectural Decision Record (ADR)* captures a single AD, such as often done when writing personal notes or meeting minutes; the collection of ADRs created and maintained in a project constitute its *decision log*.
-All these are within the topic of Architectural Knowledge Management (AKM).
+All these are within the topic of Architectural Knowledge Management (AKM), but ADR usage can be extended to design and other decisions ("any decision record").
 
 The aim of the [GitHub adr organization](http://github.com/adr) is to:
 
@@ -17,6 +17,7 @@ The aim of the [GitHub adr organization](http://github.com/adr) is to:
 
 * [Love Unrequited: The Story of Architecture, Agile, and How Architecture Decision Records Brought Them Together](https://ieeexplore.ieee.org/document/9801811), Michael Keeling in the Pragmatic Designer column of IEEE Software Vol. 39 Issue 4 (2002) ([PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9801811))
 * (German) [Gut dokumentiert: Architecture Decision Records](https://www.heise.de/hintergrund/Gut-dokumentiert-Architecture-Decision-Records-4664988.html) by [@obfischer](https://github.com/obfischer) published at [heise online](https://www.heise.de/).
+* *(December 2022):* Chapter 3 of "Patterns for API Design" in the Addison Wesley Signature Series at Pearson will feature six narratives guiding through the conceptual level of API design: 29 recurring decisions with  options and criteria. Learn [more](https://ozimmer.ch/patterns/2022/08/25/PfADBookNews.html).
 
 {: .long}
 ## Lightweight Architectural Decision Records Should be Adopted
