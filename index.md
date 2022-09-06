@@ -99,10 +99,10 @@ You can find more explanations and examples on Medium [Y-Statements --- A Light 
 ### More Related Work
 
 - [Documenting Architecture Decisions by Michael Nygard](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions.html)
-- [Architectural Knowledge Management (AKM) overview by HSR FHO]([https://www.ifs.hsr.ch/index.php?id=13191&L=4](https://www.ost.ch/de/forschung-und-dienstleistungen/informatik/ifs-institut-fuer-software/labs/cloud-application-lab/architectural-knowledge-management-akm))
+- [Architectural Knowledge Management (AKM) overview](https://www.ost.ch/de/forschung-und-dienstleistungen/informatik/ifs-institut-fuer-software/labs/cloud-application-lab/architectural-knowledge-management-akm) at OST 
 - [Sustainable Architectural Decisions](https://www.infoq.com/articles/sustainable-architectural-design-decisions)
 - [Overview on all variants of ADRs](https://github.com/joelparkerhenderson/architecture_decision_record#sources)
-- Method selection and tailoring in DPR, the [Design Practice Reference](https://github.com/socadk/design-practice-repository) on GitHub and the [Design Practice Reference](https://leanpub.com/dpr), a LeanPub e-Book. Architectural decision capturing is positioned as one of the essential activities in DPR.
+- Method selection and tailoring in DPR, the [Design Practice Reference](h[ttps://github.com/socadk/design-practice-repository](https://socadk.github.io/design-practice-repository/)) on GitHub and the [Design Practice Reference](https://leanpub.com/dpr), a LeanPub e-Book. Architectural decision capturing is positioned as one of the essential activities in DPR.
 - [Work by Daniel Popescu](https://scholar.google.com/citations?user=dASv28sAAAAJ)
 - [Architecture Decision Records in Action by Michael Keeling (IBM Watson Group) and Joe Runde (IBM)](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=497744) - presentation including empirical numbers.
 - [Documenting Architecture Decisions](https://www.fabian-keller.de/blog/documenting-architecture-decisions) - Blog entry by Fabian Keller
