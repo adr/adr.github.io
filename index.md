@@ -80,7 +80,7 @@ You can find more explanations and examples on Medium [Y-Statements --- A Light 
   - Powershell module: [adr-ps](https://github.com/rdagumampan/adr-ps)
   - Python rewrite: [adr-tools-python](https://pypi.org/project/adr-tools-python/)
   - Another Powershell module: [ArchitectureDecisionRecords](https://github.com/ajoberstar/ArchitectureDecisionRecords)
-- [adr-log](https://adr.github.io/adr-log/): Generates a architectural decision log out of MADRs.
+- [adr-log](https://github.com/adr/adr-log): Generates a architectural decision log out of MADRs.
 - [adr-manager](https://adr.github.io/adr-manager/#/): Craft MADR templates directly in the Web Browser.
 - [adr-viewer](https://github.com/mrwilson/adr-viewer) - python application to generate a website from a set of ADRs.
 - [Embedded Architectural Decision Records](https://adr.github.io/e-adr/), which shows how a distributed AD log can be embedded in Java Code via ADR annotations.
