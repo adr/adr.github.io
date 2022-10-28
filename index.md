@@ -28,11 +28,11 @@ A "lightweight" ADR consists of [title, status, context, decision, and consequen
 
 We think that the considered options with their pros and cons are crucial to understand the reason of a chosen option. [MADR](https://adr.github.io/madr/) --- The Markdown Any/Architecture Decision Records (MADR: `[ˈmæɾɚ]`) in this ADR organization includes such tradeoff analysis information.
 
-### Relation of ADRs, MADR, and Others
+## Relation of ADRs, MADR, and Others
 
 ![ADR](ADR.png)
 
-### Sustainable Architectural Decisions
+## Sustainable Architectural Decisions
 
 We base our work on the guidelines and principles in [Sustainable Architectural Decisions](https://www.infoq.com/articles/sustainable-architectural-design-decisions) by Zdun et al., for instance the Y-statement format suggested in that article.
 However, we are open to other formats of ADRs as shown at [@joelparkerhenderson's repository](https://github.com/joelparkerhenderson/architecture_decision_record).
