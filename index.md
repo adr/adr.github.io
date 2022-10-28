@@ -9,9 +9,9 @@ The aim of the [GitHub adr organization](http://github.com/adr) is to:
 
 1. Motivate the need for and benefits of AD capturing and establish a common vocabulary
 2. Strengthen the tooling around ADRs, in support of agile practices as well as iterative and incremental software engineering processes
-3. Provide pointers to public knowledge in the context of AKM and ADRs (for instance, [this website](https://www.ifs.hsr.ch/index.php?id=13201&L=4))
+3. Provide pointers to public knowledge in the context of AKM and ADRs
 
-> Note: The term "architecture decision record" can be used interchangeably.
+<!-- > Note: The term "architecture decision record" can be used interchangeably. -->
 
 ## ADRs in the media
 
@@ -20,7 +20,7 @@ The aim of the [GitHub adr organization](http://github.com/adr) is to:
 * *(December 2022):* Chapter 3 of "Patterns for API Design" in the Addison Wesley Signature Series at Pearson will feature six narratives guiding through the conceptual level of API design: 29 recurring decisions with  options and criteria. Learn [more](https://ozimmer.ch/patterns/2022/08/25/PfADBookNews.html).
 
 {: .long}
-## Lightweight Architectural Decision Records Should be Adopted
+## Lightweight ADRs Should be Adopted
 
 [ThoughtWorks](https://www.thoughtworks.com/) lists architectural decision records as "adopt" at their [technology radar vol. 18](https://assets.thoughtworks.com/assets/technology-radar-vol-18-en.pdf).
 [It is still listed as "adopt"](https://www.thoughtworks.com/de/radar/techniques/lightweight-architecture-decision-records).
@@ -37,7 +37,6 @@ We think that the considered options are crucial to understand the reason of a c
 ## Sustainable Architectural Decisions
 
 We base our work on the guidelines and principles in [Sustainable Architectural Decisions](https://www.infoq.com/articles/sustainable-architectural-design-decisions) by Zdun et al., for instance the Y-statement format suggested in that article.
-
 However, we are open to other formats of ADRs as shown at [@joelparkerhenderson's repository](https://github.com/joelparkerhenderson/architecture_decision_record).
 
 In short, the Y-statement is as follows:
@@ -62,9 +61,9 @@ You can find more explanations and examples on Medium [Y-Statements --- A Light 
 
 - Overview: [Architectural Decision Records](https://github.com/joelparkerhenderson/architecture_decision_record): collection of markdown templates converted to Markdown
 - [MADR](https://adr.github.io/madr/): The Markdown Architecture Decision Records (MADR: `[ˈmæɾɚ]`). Lean ADRs to quickly document architectural decisions in code. - Slogan: architectural decisions that [matter `[ˈmæɾɚ]`](https://en.wiktionary.org/wiki/matter#Pronunciation).
-- Comparison of seven templates: Zimmermann et al.: [Architectural Decision Guidance Across Projects - Problem Space Modeling, Decision Backlog Management and Cloud Computing Knowledge](http://www.ifs.hsr.ch/fileadmin/user_upload/customers/ifs.hsr.ch/Home/projekte/ADMentor-WICSA2015ubmissionv11nc.pdf). WICSA 2015: 85-94. 
+- Comparison of seven templates: [Architectural Decision Guidance Across Projects - Problem Space Modeling, Decision Backlog Management and Cloud Computing Knowledge](http://www.ifs.hsr.ch/fileadmin/user_upload/customers/ifs.hsr.ch/Home/projekte/ADMentor-WICSA2015ubmissionv11nc.pdf). WICSA 2015: 85-94. 
 - Context, background and examples of good and bad justifications can be found in [this blog post](https://www.ozimmer.ch/practices/2020/04/27/ArchitectureDecisionMaking.html). 
-- [DecisionCapture](https://schubmat.github.io/DecisionCapture/): Templates for agile projects and explanation of the ADR universe. [example](https://github.com/schubmat/DecisionCapture/blob/master/samples/samples_simpleTemplate_secondSprint.md).
+- [DecisionCapture](https://schubmat.github.io/DecisionCapture/): Templates for agile projects and explanation of the ADR universe, with [example](https://github.com/schubmat/DecisionCapture/blob/master/samples/samples_simpleTemplate_secondSprint.md).
 
 ## Tooling
 
@@ -98,7 +97,7 @@ You can find more explanations and examples on Medium [Y-Statements --- A Light 
 - [eadlsync](https://adr.github.io/eadlsync/): Synchronizes embedded architectural decision records with a repository of architectural decisions.
 - [SE Repo](https://github.com/adr/serepo): Software Engineering Repository. A repository for versioning software engineering artifacts, which can be architectural decisions, patterns, and others.
 
-### More Related Work
+### More Information
 
 - [Documenting Architecture Decisions by Michael Nygard](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions.html)
 - [Architectural Knowledge Management (AKM) overview](https://www.ost.ch/de/forschung-und-dienstleistungen/informatik/ifs-institut-fuer-software/labs/cloud-application-lab/architectural-knowledge-management-akm) at OST 
