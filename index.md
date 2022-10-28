@@ -90,7 +90,7 @@ You can find more explanations and examples on Medium [Y-Statements - A Light Te
 
 #### Interesting, but unmaintained tooling
 
-- [adr-log](https://adr.github.io/adr-log/): Generates a architectural decision log out of MADRs.
+- [adr-log](https://github.com/adr/adr-log): Generates a architectural decision log out of MADRs.
 - [ADMentor](https://github.com/IFS-HSR/ADMentor) Architectural Decision Modeling Add-In for [Sparx Enterprise Architect](https://www.sparxsystems.de/uml/neweditions/)
 - [eadlsync](https://adr.github.io/eadlsync/): Synchronizes embedded architectural decision records with a repository of architectural decisions.
 - [SE Repo](https://github.com/adr/serepo): Software Engineering Repository. A repository for versioning software engineering artifacts, which can be architectural decisions, patterns, and others.
