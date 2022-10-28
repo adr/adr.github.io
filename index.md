@@ -81,6 +81,7 @@ You can find more explanations and examples on Medium [Y-Statements - A Light Te
 - [architectural-decision](https://github.com/cspray/architectural-decision): PHP library to create ADRs using PHP8 Attributes.
 - [Embedded Architectural Decision Records](https://adr.github.io/e-adr/), which shows how a distributed AD log can be embedded in Java Code via ADR annotations.
 - [Log4brains](https://github.com/thomvaill/log4brains): CLI and web UI to log and publish your ADRs as a static website
+- [Loqbooq](https://loqbooq.app): Web App with Slack integration to record ADR-inspired decision logs
 
 #### Tooling related to architecture management
 
