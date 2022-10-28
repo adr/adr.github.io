@@ -22,19 +22,18 @@ The aim of the [GitHub adr organization](http://github.com/adr) is to:
 {: .long}
 ## Lightweight ADRs Should be Adopted
 
-[ThoughtWorks](https://www.thoughtworks.com/) lists architectural decision records as "adopt" at their [technology radar vol. 18](https://assets.thoughtworks.com/assets/technology-radar-vol-18-en.pdf).
-[It is still listed as "adopt"](https://www.thoughtworks.com/de/radar/techniques/lightweight-architecture-decision-records).
+[ThoughtWorks](https://www.thoughtworks.com/) lists architectural decision records as "adopt" at their [technology radar vol. 18](https://assets.thoughtworks.com/assets/technology-radar-vol-18-en.pdf). <!-- [It is still listed as "adopt"](https://www.thoughtworks.com/de/radar/techniques/lightweight-architecture-decision-records). -->
 
 A "lightweight" ADR consists of [title, status, context, decision, and consequences](https://github.com/joelparkerhenderson/architecture-decision-record/blob/main/templates/decision-record-template-by-michael-nygard/index.md) (according to [@mtnygard](https://github.com/mtnygard)). 
-<!-- [W] changed, certainly not the first, as my "History" section shows: https://www.ozimmer.ch/practices/2020/04/27/ArchitectureDecisionMaking.html -->
+<!-- not the first, as the "History" section in this post shows: https://www.ozimmer.ch/practices/2020/04/27/ArchitectureDecisionMaking.html -->
 
-We think that the considered options are crucial to understand the reason of a chosen option. Thus, we propose [MADR](https://adr.github.io/madr/) --- The Markdown Architecture Decision Records (MADR: `[ˈmæɾɚ]`) as alternative in this ADR organization.
+We think that the considered options with their pros and cons are crucial to understand the reason of a chosen option. [MADR](https://adr.github.io/madr/) --- The Markdown Any/Architecture Decision Records (MADR: `[ˈmæɾɚ]`) in this ADR organization includes such tradeoff analysis information.
 
-## Relation of ADRs, MADR, and Others
+### Relation of ADRs, MADR, and Others
 
 ![ADR](ADR.png)
 
-## Sustainable Architectural Decisions
+### Sustainable Architectural Decisions
 
 We base our work on the guidelines and principles in [Sustainable Architectural Decisions](https://www.infoq.com/articles/sustainable-architectural-design-decisions) by Zdun et al., for instance the Y-statement format suggested in that article.
 However, we are open to other formats of ADRs as shown at [@joelparkerhenderson's repository](https://github.com/joelparkerhenderson/architecture_decision_record).
@@ -64,10 +63,13 @@ You can find more explanations and examples on Medium [Y-Statements --- A Light 
 - Comparison of seven templates: [Architectural Decision Guidance Across Projects - Problem Space Modeling, Decision Backlog Management and Cloud Computing Knowledge](http://www.ifs.hsr.ch/fileadmin/user_upload/customers/ifs.hsr.ch/Home/projekte/ADMentor-WICSA2015ubmissionv11nc.pdf). WICSA 2015: 85-94. 
 - Context, background and examples of good and bad justifications can be found in [this blog post](https://www.ozimmer.ch/practices/2020/04/27/ArchitectureDecisionMaking.html). 
 - [DecisionCapture](https://schubmat.github.io/DecisionCapture/): Templates for agile projects and explanation of the ADR universe, with [example](https://github.com/schubmat/DecisionCapture/blob/master/samples/samples_simpleTemplate_secondSprint.md).
+- cards42 has adopted the Y-statement template in its German A[DR card](https://cards42.org#adr); the English version is similar, but adds state information.
 
-## Tooling
+## Decision CApturing Tools
 
-- [ADMentor](https://github.com/IFS-HSR/ADMentor) Architectural Decision Modeling Add-In for [Sparx Enterprise Architect](https://www.sparxsystems.de/uml/neweditions/)
+- [ADMentor](https://github.com/IFS-HSR/ADMentor) Architectural Decision Modeling Add-In for [Sparx Enterprise Architect](https://www.sparxsystems.de/uml/neweditions/) (not actively maintained at present)
+- [adr-log](https://adr.github.io/adr-log/): Generates a architectural decision log out of MADRs.
+- [adr-manager](https://adr.github.io/adr-manager/#/): Craft MADR templates directly in the Web Browser.
 - [adr-tools](https://github.com/npryce/adr-tools) - bash scripts to manage ADRs in the [Nygard format](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions.html).
 [example](https://github.com/npryce/adr-tools/blob/master/doc/adr/0002-implement-as-shell-scripts.md).
   - Ansible script to install adr-tools: [ansible-adr-tools](https://github.com/escalate/ansible-adr-tools)
@@ -79,8 +81,6 @@ You can find more explanations and examples on Medium [Y-Statements --- A Light 
   - Powershell module: [adr-ps](https://github.com/rdagumampan/adr-ps)
   - Python rewrite: [adr-tools-python](https://pypi.org/project/adr-tools-python/)
   - Another Powershell module: [ArchitectureDecisionRecords](https://github.com/ajoberstar/ArchitectureDecisionRecords)
-- [adr-log](https://adr.github.io/adr-log/): Generates a architectural decision log out of MADRs.
-- [adr-manager](https://adr.github.io/adr-manager/#/): Craft MADR templates directly in the Web Browser.
 - [adr-viewer](https://github.com/mrwilson/adr-viewer) - python application to generate a website from a set of ADRs.
 - [Embedded Architectural Decision Records](https://adr.github.io/e-adr/), which shows how a distributed AD log can be embedded in Java Code via ADR annotations.
 - [Log4brains](https://github.com/thomvaill/log4brains): CLI and web UI to log and publish your ADRs as a static website
@@ -88,7 +88,7 @@ You can find more explanations and examples on Medium [Y-Statements --- A Light 
 
 #### Tooling related to architecture management
 
-- [ArchUnit](https://github.com/TNG/ArchUnit); unit tests for architecture
+- [ArchUnit](https://github.com/TNG/ArchUnit): unit tests for architecture
 - [docToolchain](https://doctoolchain.github.io/docToolchain/): docToolchain is an implementation of the [docs-as-code](http://www.writethedocs.org/guide/docs-as-code/) approach for software architecture plus some additional automation.
 - [Structurizr](https://www.structurizr.com/): Structurizr is a collection of tooling to help you visualise, document and explore your software architecture using the [C4 model](https://c4model.com/).
 
@@ -99,12 +99,13 @@ You can find more explanations and examples on Medium [Y-Statements --- A Light 
 
 ### More Information
 
-- [Documenting Architecture Decisions by Michael Nygard](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions.html)
-- [Architectural Knowledge Management (AKM) overview](https://www.ost.ch/de/forschung-und-dienstleistungen/informatik/ifs-institut-fuer-software/labs/cloud-application-lab/architectural-knowledge-management-akm) at OST 
-- [Sustainable Architectural Decisions](https://www.infoq.com/articles/sustainable-architectural-design-decisions)
-- [Overview on all variants of ADRs](https://github.com/joelparkerhenderson/architecture_decision_record#sources)
-- Method selection and tailoring in DPR, the [Design Practice Reference](https://socadk.github.io/design-practice-repository/) on GitHub and the [Design Practice Reference](https://leanpub.com/dpr), a LeanPub e-Book. Architectural decision capturing is positioned as one of the essential activities in DPR.
-- [Work by Daniel Popescu](https://scholar.google.com/citations?user=dASv28sAAAAJ)
+<!-- - [Sustainable Architectural Decisions](https://www.infoq.com/articles/sustainable-architectural-design-decisions) -->
+- [Documenting Architecture Decisions](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions.html) by Michael Nygard
+- [Architectural Knowledge Management (AKM) overview](https://www.ost.ch/de/forschung-und-dienstleistungen/informatik/ifs-institut-fuer-software/labs/cloud-application-lab/architectural-knowledge-management-akm) at OST
+- [Overview on many variants of ADRs](https://github.com/joelparkerhenderson/architecture_decision_record#sources) by Joel Parker-Henderson
 - [Architecture Decision Records in Action by Michael Keeling (IBM Watson Group) and Joe Runde (IBM)](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=497744) - presentation including empirical numbers.
 - [Documenting Architecture Decisions](https://www.fabian-keller.de/blog/documenting-architecture-decisions) - Blog entry by Fabian Keller
 - [From Architectural Decisions to Design Decisions](https://medium.com/olzzio/from-architectural-decisions-to-design-decisions-f05f6d57032b) and [ADR = Any Decision Record?](https://medium.com/olzzio/adr-any-decision-record-916d1b64b28d) - two blog posts by Olaf Zimmermann proposing to exted the scope of ADRs.
+- Method selection and tailoring in DPR, the [Design Practice Repository (DPR)](https://socadk.github.io/design-practice-repository/) on GitHub and the [Design Practice Reference](https://leanpub.com/dpr), a corresponding LeanPub e-Book. Architectural decision capturing is positioned as one of the essential activities in DPR.
+- An AWS Prescriptive Guidance recommends [Using architectural decision records to streamline technical decision-making for a software development project](https://docs.aws.amazon.com/prescriptive-guidance/latest/architectural-decision-records/welcome.html).
+<!-- - [Work by Daniel Popescu](https://scholar.google.com/citations?user=dASv28sAAAAJ) -->
