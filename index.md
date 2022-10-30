@@ -13,7 +13,7 @@ The aim of the [GitHub adr organization](http://github.com/adr) is to:
 
 <!-- > Note: The term "architecture decision record" can be used interchangeably. -->
 
-## ADRs in the media
+## ADRs in the Media
 
 * [Love Unrequited: The Story of Architecture, Agile, and How Architecture Decision Records Brought Them Together](https://ieeexplore.ieee.org/document/9801811), Michael Keeling in the Pragmatic Designer column of IEEE Software Vol. 39 Issue 4 (2002) ([PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9801811))
 * (German) [Gut dokumentiert: Architecture Decision Records](https://www.heise.de/hintergrund/Gut-dokumentiert-Architecture-Decision-Records-4664988.html) by [@obfischer](https://github.com/obfischer) published at [heise online](https://www.heise.de/).
@@ -62,7 +62,7 @@ You can find more explanations and examples on Medium [Y-Statements - A Light Te
 - Comparison of seven templates: [Architectural Decision Guidance Across Projects - Problem Space Modeling, Decision Backlog Management and Cloud Computing Knowledge](http://www.ifs.hsr.ch/fileadmin/user_upload/customers/ifs.hsr.ch/Home/projekte/ADMentor-WICSA2015ubmissionv11nc.pdf). WICSA 2015: 85-94. 
 - Context, background and examples of good and bad justifications can be found in [this blog post](https://www.ozimmer.ch/practices/2020/04/27/ArchitectureDecisionMaking.html). 
 - [DecisionCapture](https://schubmat.github.io/DecisionCapture/): Templates for agile projects and explanation of the ADR universe, with [example](https://github.com/schubmat/DecisionCapture/blob/master/samples/samples_simpleTemplate_secondSprint.md).
-- cards42 has adopted the Y-statement template in its German A[DR card](https://cards42.org#adr); the English version is similar, but adds state information.
+- cards42 has adopted the Y-statement template in its German [ADR card](https://cards42.org#adr); the English version is similar, but adds state information.
 
 ## Decision Capturing Tools
 
