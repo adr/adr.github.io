@@ -16,7 +16,7 @@ The aim of the [GitHub adr organization](http://github.com/adr) is to:
 
 ## ADRs in the Media
 
-* [Love Unrequited: The Story of Architecture, Agile, and How Architecture Decision Records Brought Them Together](https://ieeexplore.ieee.org/document/9801811), Michael Keeling in the Pragmatic Designer column of IEEE Software Vol. 39 Issue 4 (2020) ([PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9801811))
+* [Love Unrequited: The Story of Architecture, Agile, and How Architecture Decision Records Brought Them Together](https://ieeexplore.ieee.org/document/9801811), Michael Keeling in the Pragmatic Designer column of IEEE Software Vol. 39 Issue 4 (2022) ([PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9801811))
 * (German) [Gut dokumentiert: Architecture Decision Records](https://www.heise.de/hintergrund/Gut-dokumentiert-Architecture-Decision-Records-4664988.html) by [@obfischer](https://github.com/obfischer) published at [heise online](https://www.heise.de/).
 * *(December 2022):* Chapter 3 of "Patterns for API Design" in the Addison Wesley Signature Series at Pearson will feature six narratives guiding through the conceptual level of API design: 29 recurring decisions with  options and criteria. Learn [more](https://ozimmer.ch/patterns/2022/08/25/PfADBookNews.html).
 
