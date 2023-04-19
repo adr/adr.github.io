@@ -68,6 +68,11 @@ You can find more explanations and examples on Medium [Y-Statements - A Light Te
 
 ## Decision Capturing Tools
 
+*Disclaimer:* 
+The following list is rather inclusive.
+Please find out about the status and the maturity of the list entries for yourself by following the links.
+We are happy to include more candidate assets here.
+
 - [adr-manager](https://adr.github.io/adr-manager/#/): Craft MADR 2.x templates directly in the Web Browser.
 - [adr-tools](https://github.com/npryce/adr-tools) - bash scripts to manage ADRs in the [Nygard format](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions.html). [example](https://github.com/npryce/adr-tools/blob/master/doc/adr/0002-implement-as-shell-scripts.md).
   - Ansible script to install adr-tools: [ansible-adr-tools](https://github.com/escalate/ansible-adr-tools)
