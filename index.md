@@ -14,6 +14,8 @@ The aim of the [GitHub adr organization](http://github.com/adr) is to:
 
 <!-- > Note: The term "architecture decision record" can be used interchangeably. -->
 
+The repository for the Website of the ADR organization is [https://github.com/adr/adr.github.io](https://github.com/adr/adr.github.io).
+
 ## ADRs in the Media
 
 * [Love Unrequited: The Story of Architecture, Agile, and How Architecture Decision Records Brought Them Together](https://ieeexplore.ieee.org/document/9801811), Michael Keeling in the Pragmatic Designer column of IEEE Software Vol. 39 Issue 4 (2022) ([PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9801811))
