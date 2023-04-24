@@ -17,15 +17,15 @@ The aim of the [GitHub adr organization](http://github.com/adr) is to:
 ## ADRs in the Media
 
 * [Love Unrequited: The Story of Architecture, Agile, and How Architecture Decision Records Brought Them Together](https://ieeexplore.ieee.org/document/9801811), Michael Keeling in the Pragmatic Designer column of IEEE Software Vol. 39 Issue 4 (2022) ([PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9801811))
+* Chapter 3 of ["Patterns for API Design: Simplifying Integration with Loosely Coupled Message Exchanges"](https://api-patterns.org/book/) in the Addison Wesley Signature Series at Pearson features six narratives guiding through the conceptual level of API design: 29 recurring decisions with  options and criteria. Learn more in this [blog post](https://medium.com/nerd-for-tech/api-patterns-website-redesigned-and-sample-book-chapter-available-df9daf4b5e15).
+* Architectural decision capturing is positioned as one of the essential activities in [Design Practice Reference](https://leanpub.com/dpr), a LeanPub e-Book.
 * (German) [Gut dokumentiert: Architecture Decision Records](https://www.heise.de/hintergrund/Gut-dokumentiert-Architecture-Decision-Records-4664988.html) by [@obfischer](https://github.com/obfischer) published at [heise online](https://www.heise.de/).
-* *(December 2022):* Chapter 3 of "Patterns for API Design" in the Addison Wesley Signature Series at Pearson will feature six narratives guiding through the conceptual level of API design: 29 recurring decisions with  options and criteria. Learn [more](https://ozimmer.ch/patterns/2022/08/25/PfADBookNews.html).
 
 {: .long}
 ## Lightweight ADRs Should be Adopted
 
-[ThoughtWorks](https://www.thoughtworks.com/) lists architectural decision records as "adopt" at their [technology radar vol. 18](https://assets.thoughtworks.com/assets/technology-radar-vol-18-en.pdf): <https://www.thoughtworks.com/en-us/radar/techniques/lightweight-architecture-decision-records>.
-
 A "lightweight" ADR consists of [title, status, context, decision, and consequences](https://github.com/joelparkerhenderson/architecture-decision-record/blob/main/templates/decision-record-template-by-michael-nygard/index.md) (according to [@mtnygard](https://github.com/mtnygard)). 
+[ThoughtWorks](https://www.thoughtworks.com/) listed architectural decision records as "adopt" at their [technology radar vol. 18](https://assets.thoughtworks.com/assets/technology-radar-vol-18-en.pdf): <https://www.thoughtworks.com/en-us/radar/techniques/lightweight-architecture-decision-records>.
 
 We think that the considered options with their pros and cons are crucial to understand the reason of a chosen option. [MADR](https://adr.github.io/madr/) --- The Markdown Any/Architecture Decision Records (MADR: `[ˈmæɾɚ]`) in this ADR organization includes such tradeoff analysis information.
 
@@ -65,6 +65,14 @@ You can find more explanations and examples on Medium [Y-Statements - A Light Te
 - [DecisionCapture](https://schubmat.github.io/DecisionCapture/): Templates for agile projects and explanation of the ADR universe, with [example](https://github.com/schubmat/DecisionCapture/blob/master/samples/samples_simpleTemplate_secondSprint.md).
 - cards42 has adopted the Y-statement template in its German [ADR card](https://cards42.org#adr); the English version is similar, but adds state information.
 - The [template](http://www.iso-architecture.org/42010/templates/) for [ISO/IEC/IEEE 42010:2011](https://en.wikipedia.org/wiki/ISO/IEC_42010), the international standard for architecture descriptions of systems and software, suggests nine information items for ADRs its Appendix A. It also identifies areas to consider when identifying key decisions.
+
+## Good ADRs (and how to get to them)
+
+- [How to create ADRs — and how not to](https://www.ozimmer.ch/practices/2023/04/03/ADRCreation.html)
+- [Architectural Significance Test and Some Core Decisions](https://www.ozimmer.ch/practices/2020/09/24/ASRTestECSADecisions.html
+- [The Markdown ADR (MADR) Template Explained and Distilled](https://www.ozimmer.ch/practices/2022/11/22/MADRTemplatePrimer.html) 
+- [A Definition of Done for Architectural Decision Making](https://www.ozimmer.ch/practices/2020/05/22/ADDefinitionOfDone.html) 
+- [How to review ADRs — and how not to](/practices/2023/04/05/ADRReview.html).
 
 ## Decision Capturing Tools
 
@@ -106,6 +114,7 @@ We are happy to include more candidate assets here.
 
 ### More Information
 
+- ["An Adoption Model for Architectural Decision Making and Capturing"](https://www.ozimmer.ch/practices/2023/04/21/ADAdoptionModel.html)
 - [Architectural Decisions — The Making Of](https://www.ozimmer.ch/practices/2020/04/27/ArchitectureDecisionMaking.html) - provides some history on architecture decision records.
 - [Architectural Decision Records (ADR): Open & Transparent Decision History](https://openpracticelibrary.com/practice/architectural-decision-records-adr/) in the Open Practice Library
 - An AWS Prescriptive Guidance recommends [using architectural decision records to streamline technical decision-making for a software development project](https://docs.aws.amazon.com/prescriptive-guidance/latest/architectural-decision-records/welcome.html).
