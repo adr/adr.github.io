@@ -68,11 +68,11 @@ You can find more explanations and examples on Medium [Y-Statements - A Light Te
 
 ## Good ADRs (and how to get to them)
 
-- [How to create ADRs — and how not to](https://www.ozimmer.ch/practices/2023/04/03/ADRCreation.html)
-- [Architectural Significance Test and Some Core Decisions](https://www.ozimmer.ch/practices/2020/09/24/ASRTestECSADecisions.html
+- [How to create ADRs — and how not to](https://www.ozimmer.ch/practices/2023/04/03/ADRCreation.html) collects good practices and anti patterns
+- [Architectural Significance Test and Some Core Decisions](https://www.ozimmer.ch/practices/2020/09/24/ASRTestECSADecisions.html)
 - [The Markdown ADR (MADR) Template Explained and Distilled](https://www.ozimmer.ch/practices/2022/11/22/MADRTemplatePrimer.html) 
-- [A Definition of Done for Architectural Decision Making](https://www.ozimmer.ch/practices/2020/05/22/ADDefinitionOfDone.html) 
-- [How to review ADRs — and how not to](/practices/2023/04/05/ADRReview.html).
+- Proposal for [A Definition of Done for Architectural Decision Making](https://www.ozimmer.ch/practices/2020/05/22/ADDefinitionOfDone.html)
+- [How to review ADRs — and how not to](/practices/2023/04/05/ADRReview.html) has good practices, anti patterns, review check list 
 
 ## Decision Capturing Tools
 
