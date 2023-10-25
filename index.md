@@ -26,7 +26,7 @@ The repository for the Website of the ADR organization is [https://github.com/ad
 {: .long}
 ## Lightweight ADRs Should be Adopted
 
-A "lightweight" ADR consists of [title, status, context, decision, and consequences](https://github.com/joelparkerhenderson/architecture-decision-record/tree/main/locales/en/templates/decision-record-template-by-michael-nygard) (according to [@mtnygard](https://github.com/mtnygard)). 
+A "lightweight" ADR consists of [title, status, context, decision, and consequences](https://github.com/joelparkerhenderson/architecture-decision-record/blob/main/locales/en/templates/decision-record-template-by-michael-nygard/index.md) (according to [@mtnygard](https://github.com/mtnygard)). 
 [ThoughtWorks](https://www.thoughtworks.com/) listed architectural decision records as "adopt" at their [technology radar vol. 18](https://assets.thoughtworks.com/assets/technology-radar-vol-18-en.pdf): <https://www.thoughtworks.com/en-us/radar/techniques/lightweight-architecture-decision-records>.
 
 We think that the considered options with their pros and cons are crucial to understand the reason of a chosen option. [MADR](https://adr.github.io/madr/) --- The Markdown Any/Architecture Decision Records (MADR: `[ˈmæɾɚ]`) in this ADR organization includes such tradeoff analysis information.
