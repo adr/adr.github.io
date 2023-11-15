@@ -101,20 +101,20 @@ We are happy to include more candidate assets here.
 - [Log4brains](https://github.com/thomvaill/log4brains): CLI and web UI to log and publish your ADRs as a static website
 - [Loqbooq](https://loqbooq.app): Web App with Slack integration to record ADR-inspired decision logs
 
-#### Tooling related to architecture management
+### Tooling related to architecture management
 
 - [ArchUnit](https://github.com/TNG/ArchUnit): unit tests for architecture
 - [docToolchain](https://doctoolchain.github.io/docToolchain/): docToolchain is an implementation of the [docs-as-code](http://www.writethedocs.org/guide/docs-as-code/) approach for software architecture plus some additional automation.
 - [Structurizr](https://www.structurizr.com/): Structurizr is a collection of tooling to help you visualise, document and explore your software architecture using the [C4 model](https://c4model.com/).
 
-#### Interesting, but unmaintained tooling
+### Interesting, but unmaintained tooling
 
 - [adr-log](https://github.com/adr/adr-log): Generates a architectural decision log out of MADRs.
 - [ADMentor](https://github.com/IFS-HSR/ADMentor) Architectural Decision Modeling Add-In for [Sparx Enterprise Architect](https://www.sparxsystems.de/uml/neweditions/)
 - [eadlsync](https://adr.github.io/eadlsync/): Synchronizes embedded architectural decision records with a repository of architectural decisions.
 - [SE Repo](https://github.com/adr/serepo): Software Engineering Repository. A repository for versioning software engineering artifacts, which can be architectural decisions, patterns, and others.
 
-### More Information
+## More Information
 
 - ["An Adoption Model for Architectural Decision Making and Capturing"](https://www.ozimmer.ch/practices/2023/04/21/ADAdoptionModel.html)
 - [Architectural Decisions — The Making Of](https://www.ozimmer.ch/practices/2020/04/27/ArchitectureDecisionMaking.html) - provides some history on architecture decision records.
@@ -128,3 +128,7 @@ We are happy to include more candidate assets here.
 - Method selection and tailoring in DPR, the [Design Practice Repository (DPR)](https://socadk.github.io/design-practice-repository/) on GitHub and the [Design Practice Reference](https://leanpub.com/dpr), a corresponding LeanPub e-Book. Architectural decision capturing is positioned as one of the essential activities in DPR.
 
 <!-- - [Work by Daniel Popescu](https://scholar.google.com/citations?user=dASv28sAAAAJ) -->
+
+## Contribute
+
+To improve this page, head to <https://github.com/adr/adr.github.io>, edit `index.md`, and submit a pull request.
