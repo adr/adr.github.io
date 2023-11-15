@@ -1,2 +1,4 @@
 remote_theme: adr/slate
 anchors: true
+github:
+    is_project_page: true
