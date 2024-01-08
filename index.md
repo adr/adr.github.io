@@ -101,6 +101,7 @@ We are happy to include more candidate assets here.
 - [Embedded Architectural Decision Records](https://github.com/adr/e-adr#embedded-architectural-decision-records), which shows how a distributed AD log can be embedded in Java Code via ADR annotations.
 - [Log4brains](https://github.com/thomvaill/log4brains): CLI and web UI to log and publish your ADRs as a static website
 - [Loqbooq](https://loqbooq.app): Web App with Slack integration to record ADR-inspired decision logs
+- [Talo](https://github.com/canpolat/talo): CLI (and dotnet tool) to manage and export ADRs, RFCs and custom software design document types.
 
 ### Tooling related to architecture management
 
