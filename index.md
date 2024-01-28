@@ -71,11 +71,11 @@ You can find more explanations and examples on Medium [Y-Statements - A Light Te
 
 ## Good ADRs (and how to get to them)
 
-- [How to create ADRs — and how not to](https://www.ozimmer.ch/practices/2023/04/03/ADRCreation.html) collects good practices and anti patterns
+- [How to create ADRs — and how not to](https://www.ozimmer.ch/practices/2023/04/03/ADRCreation.html) collects good practices and anti-patterns
 - [Architectural Significance Test and Some Core Decisions](https://www.ozimmer.ch/practices/2020/09/24/ASRTestECSADecisions.html)
 - [The Markdown ADR (MADR) Template Explained and Distilled](https://www.ozimmer.ch/practices/2022/11/22/MADRTemplatePrimer.html)
 - Proposal for [A Definition of Done for Architectural Decision Making](https://www.ozimmer.ch/practices/2020/05/22/ADDefinitionOfDone.html)
-- [How to review ADRs — and how not to](https://www.ozimmer.ch/practices/2023/04/05/ADRReview.html) has good practices, anti patterns, review check list
+- [How to review ADRs — and how not to](https://www.ozimmer.ch/practices/2023/04/05/ADRReview.html) has good practices, anti-patterns, review check list
 
 ## Decision Capturing Tools
 
@@ -111,7 +111,7 @@ We are happy to include more candidate assets here.
 
 ### Interesting, but unmaintained tooling
 
-- [adr-log](https://github.com/adr/adr-log): Generates a architectural decision log out of MADRs.
+- [adr-log](https://github.com/adr/adr-log): Generates an architectural decision log out of MADRs.
 - [ADMentor](https://github.com/IFS-HSR/ADMentor) Architectural Decision Modeling Add-In for [Sparx Enterprise Architect](https://www.sparxsystems.de/uml/neweditions/)
 - [eadlsync](https://adr.github.io/eadlsync/): Synchronizes embedded architectural decision records with a repository of architectural decisions.
 - [SE Repo](https://github.com/adr/serepo): Software Engineering Repository. A repository for versioning software engineering artifacts, which can be architectural decisions, patterns, and others.
@@ -126,7 +126,7 @@ We are happy to include more candidate assets here.
 - [Documenting Architecture Decisions](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions.html) by Michael Nygard
 - [Architecture Decision Records in Action by Michael Keeling (IBM Watson Group) and Joe Runde (IBM) [YouTube]](https://www.youtube.com/watch?v=41NVge3_cYo) - presentation including empirical numbers.
 - [Documenting Architecture Decisions](https://www.fabian-keller.de/blog/documenting-architecture-decisions) - Blog entry by Fabian Keller
-- [From Architectural Decisions to Design Decisions](https://medium.com/olzzio/from-architectural-decisions-to-design-decisions-f05f6d57032b) and [ADR = Any Decision Record?](https://medium.com/olzzio/adr-any-decision-record-916d1b64b28d) - two blog posts by Olaf Zimmermann proposing to exted the scope of ADRs.
+- [From Architectural Decisions to Design Decisions](https://medium.com/olzzio/from-architectural-decisions-to-design-decisions-f05f6d57032b) and [ADR = Any Decision Record?](https://medium.com/olzzio/adr-any-decision-record-916d1b64b28d) - two blog posts by Olaf Zimmermann proposing to extend the scope of ADRs.
 - Method selection and tailoring in DPR, the [Design Practice Repository (DPR)](https://socadk.github.io/design-practice-repository/) on GitHub and the [Design Practice Reference](https://leanpub.com/dpr), a corresponding LeanPub e-Book. Architectural decision capturing is positioned as one of the essential activities in DPR.
 
 <!-- - [Work by Daniel Popescu](https://scholar.google.com/citations?user=dASv28sAAAAJ) -->
