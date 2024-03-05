@@ -96,6 +96,7 @@ We are happy to include more candidate assets here.
   - Powershell module: [adr-ps](https://github.com/rdagumampan/adr-ps)
   - Python rewrite: [adr-tools-python](https://pypi.org/project/adr-tools-python/)
   - Another Powershell module: [ArchitectureDecisionRecords](https://github.com/ajoberstar/ArchitectureDecisionRecords)
+  - Rust rewrite: [adrs](https://github.com/joshrotenberg/adrs)
 - [adr-viewer](https://github.com/mrwilson/adr-viewer) - python application to generate a website from a set of ADRs.
 - [architectural-decision](https://github.com/cspray/architectural-decision): PHP library to create ADRs using PHP8 Attributes.
 - [Embedded Architectural Decision Records](https://github.com/adr/e-adr#embedded-architectural-decision-records), which shows how a distributed AD log can be embedded in Java Code via ADR annotations.
