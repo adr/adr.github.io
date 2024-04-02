@@ -5,6 +5,10 @@ on:
     paths:
       - '.github/workflows/check-links.yml'
       - '**/*.md'
+  pull_request:
+    paths:
+      - '.github/workflows/check-links.yml'
+      - '**/*.md'
   schedule:
     # Run on the first of each month at 9:00 AM (See https://pubs.opengroup.org/onlinepubs/9699919799/utilities/crontab.html#tag_20_25_07)
     - cron: "0 9 1 * *"
@@ -21,6 +25,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           show-progress: 'false'
+      - uses: gautamkrishnar/keepalive-workflow@v2
       - name: Restore lychee cache
         uses: actions/cache@v4
         with:

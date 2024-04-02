@@ -1,11 +1,19 @@
 name: Lint
-on: [push, pull_request, workflow_dispatch]
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+  schedule:
+    - cron: "0 9 1 * *"
+  workflow_dispatch:
 jobs:
   lint:
     runs-on: ubuntu-latest
     steps:
       - name: Set up Git repository
         uses: actions/checkout@v4
+      - uses: gautamkrishnar/keepalive-workflow@v2
       - name: Lint
         uses: DavidAnson/markdownlint-cli2-action@v15
         with:
