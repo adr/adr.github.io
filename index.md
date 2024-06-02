@@ -104,6 +104,8 @@ We are happy to include more candidate assets here.
 - [Loqbooq](https://loqbooq.app): Web App with Slack integration to record ADR-inspired decision logs
 - [Talo](https://github.com/canpolat/talo): CLI (and dotnet tool) to manage and export ADRs, RFCs and custom software design document types.
 
+For a more detailed list for tooling for MADR, please head to <https://adr.github.io/madr/tooling.html>.
+
 ### Tooling related to architecture management
 
 - [ArchUnit](https://github.com/TNG/ArchUnit): unit tests for architecture
