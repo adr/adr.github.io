@@ -69,6 +69,17 @@ You can find more explanations and examples on Medium [Y-Statements - A Light Te
 - cards42 has adopted the Y-statement template in its German [ADR card](https://cards42.org#adr); the English version is similar, but adds state information.
 - The [template](http://www.iso-architecture.org/42010/templates/) for [ISO/IEC/IEEE 42010:2011](https://en.wikipedia.org/wiki/ISO/IEC_42010), the international standard for architecture descriptions of systems and software, suggests nine information items for ADRs its Appendix A. It also identifies areas to consider when identifying key decisions.
 
+## Suggested ADR Template
+
+Ensure that anatomy of every ADR record is consistent. Below is a suggested template:
+
+- Title: A concise noun phrase that encapsulates the architecture decision.
+- Metadata: Name of the author, date this ADR was approved, name of the approver.
+- Status: Indicate the current status of the ADR: proposed, accepted, or superseded. If this ADR is superseded by a more recent one, please reference the newer ADR for further details.
+- Context: This section outlines the problem at hand and the necessity for an architectural decision. It should also enumerate alternative options considered during the decision-making process.
+- Decision: Detail the chosen solution along with all justifications and significant trade-offs associated with this decision.
+- Consequences: Describe the implications and context following the implementation of the new decision.
+
 ## Good ADRs (and how to get to them)
 
 - [How to create ADRs — and how not to](https://www.ozimmer.ch/practices/2023/04/03/ADRCreation.html) collects good practices and anti-patterns
