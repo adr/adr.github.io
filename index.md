@@ -27,7 +27,7 @@ The repository for the Website of the ADR organization is [https://github.com/ad
 <!-- markdownlint-disable-next-line MD022 -->
 ## Suggested ADR Templates
 
-We recommend that you adapt Markdown Architecture Decision Records (MADR) templates. You can use MADR without installing any software, as the template can be populated in any text editor. However, there is [a VS Code extension](https://marketplace.visualstudio.com/items?itemName=StevenChen.vscode-adr-manager) that can assist you, among other tools. You can read more about MADR [here](https://www.ozimmer.ch/practices/2022/11/22/MADRTemplatePrimer.html). Currently, we have four variants of MADR templates, which you can find and use [here](https://github.com/adr/madr/tree/develop/template). Each variant can accommodate different types of details.
+We recommend that you adapt [Markdown Architecture Decision Records (MADR) templates](https://adr.github.io/madr/). You can use MADR without installing any software, as the template can be populated in any text editor. However, there is [a VS Code extension](https://marketplace.visualstudio.com/items?itemName=StevenChen.vscode-adr-manager) that can assist you, among other tools. You can read more about MADR [here](https://www.ozimmer.ch/practices/2022/11/22/MADRTemplatePrimer.html). Currently, we have four variants of MADR templates, which you can find and use [here](https://github.com/adr/madr/tree/develop/template). Each variant can accommodate different types of details.
 
 ## Relation of ADRs, MADR, and Others
 
