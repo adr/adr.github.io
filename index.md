@@ -2,8 +2,8 @@
 
 An [Architectural Decision (AD)](https://en.wikipedia.org/wiki/Architectural_decision) is a justified design choice that addresses a functional or non-functional requirement that is architecturally significant.
 An [Architecturally Significant Requirement (ASR)](https://en.wikipedia.org/wiki/Architecturally_significant_requirements) is a requirement that has a measurable effect on the architecture and quality of a software and/or hardware system.
-An *Architectural Decision Record (ADR)* captures a single AD and its rationale;
-the collection of ADRs created and maintained in a project constitute its *decision log*.
+An *Architectural Decision Record (ADR)* captures a single AD and its rationale. ADR can help you understand the reasons for a chosen architectural decision, along with its trade-offs and consequences. 
+The collection of ADRs created and maintained in a project constitute its *decision log*.
 All these are within the topic of Architectural Knowledge Management (AKM), but ADR usage can be extended to design and other decisions ("any decision record").
 
 The aim of the [GitHub adr organization](http://github.com/adr) is to:
@@ -25,12 +25,11 @@ The repository for the Website of the ADR organization is [https://github.com/ad
 
 {: .long}
 <!-- markdownlint-disable-next-line MD022 -->
-## Lightweight ADRs Should be Adopted
+## Suggested ADR Templates
 
-A "lightweight" ADR consists of [title, status, context, decision, and consequences](https://github.com/joelparkerhenderson/architecture-decision-record/blob/main/locales/en/templates/decision-record-template-by-michael-nygard/index.md) (according to [@mtnygard](https://github.com/mtnygard)).
-[ThoughtWorks](https://www.thoughtworks.com/) listed architectural decision records as "adopt" at their [technology radar vol. 18](https://assets.thoughtworks.com/assets/technology-radar-vol-18-en.pdf): <https://www.thoughtworks.com/en-us/radar/techniques/lightweight-architecture-decision-records>
+We recommend that you adapt Markdown Architecture Decision Records (MADR) templates. You can use MADR without installing any software, as the template can be populated in any text editor. However, there is [a VS Code extension](https://marketplace.visualstudio.com/items?itemName=StevenChen.vscode-adr-manager) that can assist you, among other tools. You can read more about MADR [here](https://www.ozimmer.ch/practices/2022/11/22/MADRTemplatePrimer.html). Currently, we have four variants of MADR templates, which you can find and use [here](https://github.com/adr/madr/tree/develop/template). Each variant can accommodate different types of details.
 
-We think that the considered options with their pros and cons are crucial to understand the reason of a chosen option. [MADR](https://adr.github.io/madr/) --- The Markdown Any/Architecture Decision Records (MADR: `[ˈmæɾɚ]`) in this ADR organization includes such tradeoff analysis information.
+You can also adapt a lightweight ADR which consists of [title, status, context, decision, and consequences](https://github.com/joelparkerhenderson/architecture-decision-record/blob/main/locales/en/templates/decision-record-template-by-michael-nygard/index.md) (according to [@mtnygard](https://github.com/mtnygard)).
 
 ## Relation of ADRs, MADR, and Others
 
@@ -68,17 +67,6 @@ You can find more explanations and examples on Medium [Y-Statements - A Light Te
 - [DecisionCapture](https://schubmat.github.io/DecisionCapture/): Templates for agile projects and explanation of the ADR universe, with [example](https://github.com/schubmat/DecisionCapture/blob/master/samples/samples_merged/samples_simpleTemplate_secondSprint.md).
 - cards42 has adopted the Y-statement template in its German [ADR card](https://cards42.org#adr); the English version is similar, but adds state information.
 - The [template](http://www.iso-architecture.org/42010/templates/) for [ISO/IEC/IEEE 42010:2011](https://en.wikipedia.org/wiki/ISO/IEC_42010), the international standard for architecture descriptions of systems and software, suggests nine information items for ADRs its Appendix A. It also identifies areas to consider when identifying key decisions.
-
-## Suggested ADR Template
-
-Ensure that anatomy of every ADR record is consistent. Below is a suggested template:
-
-- Title: A concise noun phrase that encapsulates the architecture decision.
-- Metadata: Name of the author, date this ADR was approved, name of the approver.
-- Status: Indicate the current status of the ADR: proposed, accepted, or superseded. If this ADR is superseded by a more recent one, please reference the newer ADR for further details.
-- Context: This section outlines the problem at hand and the necessity for an architectural decision. It should also enumerate alternative options considered during the decision-making process.
-- Decision: Detail the chosen solution along with all justifications and significant trade-offs associated with this decision.
-- Consequences: Describe the implications and context following the implementation of the new decision.
 
 ## Good ADRs (and how to get to them)
 
