@@ -3,7 +3,12 @@ on:
   push:
     branches:
       - main
-      - master
+    paths-ignore:
+      - .gitignore
+      - README.md
+      - LICENSE
+
+  pull_request:
     paths-ignore:
       - .gitignore
       - README.md
@@ -62,6 +67,7 @@ jobs:
           path: "_site${{ steps.pages.outputs.base_path }}"
 
   deploy:
+    if: github.ref == 'refs/heads/main'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
