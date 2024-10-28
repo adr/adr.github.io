@@ -10,7 +10,7 @@ An *Architectural Decision Record (ADR)* captures a single AD and its rationale;
 the collection of ADRs created and maintained in a project constitute its *decision log*.
 All these are within the topic of Architectural Knowledge Management (AKM), but ADR usage can be extended to design and other decisions ("any decision record").
 
-The aim of the [GitHub adr organization](http://github.com/adr) is to:
+The aim of the [GitHub adr organization](https://github.com/adr) is to:
 
 1. Motivate the need for and benefits of AD capturing and establish a common vocabulary.
 2. Strengthen the tooling around ADRs, in support of agile practices as well as iterative and incremental engineering processes.
