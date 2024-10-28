@@ -80,7 +80,7 @@ Moreover, [42010 architecture description (AD) template](http://www.iso-architec
 ## More Information
 
 <!-- ## Sustainable Architectural Decisions -->
-The work in the adr organization is based on the guidelines and principles in [Sustainable Architectural Decisions](https://www.infoq.com/articles/sustainable-architectural-design-decisions) by Zdun et al., for instance the Y-statement format suggested in that article. 
+The work in the adr organization is based on the guidelines and principles in [Sustainable Architectural Decisions](https://www.infoq.com/articles/sustainable-architectural-design-decisions) by Zdun et al., for instance the Y-statement format suggested in that article.
 
 More general background information and ADR guidance is available:
 
