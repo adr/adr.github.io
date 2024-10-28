@@ -32,7 +32,7 @@ The repository for the Website of the ADR organization is [https://github.com/ad
 - (in German) [Gut dokumentiert: Architecture Decision Records](https://www.heise.de/hintergrund/Gut-dokumentiert-Architecture-Decision-Records-4664988.html) by [@obfischer](https://github.com/obfischer) published at [heise online](https://www.heise.de/).
 
 <!-- markdownlint-disable-next-line MD022 -->
-## ADRs in a Nutshell <!-- Lightweight ADRs Should be Adopted -->
+## ADR Templates <!-- Lightweight ADRs Should be Adopted -->
 
 A "lightweight" ADR consists of [title, status, context, decision, and consequences](https://github.com/joelparkerhenderson/architecture-decision-record/blob/main/locales/en/templates/decision-record-template-by-michael-nygard/index.md) according to [@mtnygard](https://github.com/mtnygard). <!-- From Nygard post: "Context This section describes the forces at play, including technological, political, social, and project local." -->
 
@@ -42,7 +42,11 @@ A "lightweight" ADR consists of [title, status, context, decision, and consequen
 
 We think that the considered options with their pros and cons are also crucial to understand the reason of a chosen option. [MADR](https://adr.github.io/madr/). Therefore, the Markdown Any/Architectural Decision Records (MADR, pronounced `[ˈmæɾɚ]`) project, located in the adr organization at GitHub, includes such tradeoff analysis information. It also adds additional metadata.
 
-## Relation of Nygardian ADRs, MADR, and Other Templates
+<!-- ## Sustainable Architectural Decisions -->
+
+The work in the adr organization is based on the guidelines and principles in [Sustainable Architectural Decisions](https://www.infoq.com/articles/sustainable-architectural-design-decisions) by Zdun et al., for instance the Y-statement format suggested in that article.
+
+The relation of the Nygardian ADR structure, MADR, Y-Statements, and other templates is shown in the following UML class diagram:
 
 ```mermaid
 classDiagram
@@ -56,21 +60,19 @@ classDiagram
   ADR <|-- OtherADRTemplate
 ```
 
-## Sustainable Architectural Decisions
-
-The work in the adr organization is based on the guidelines and principles in [Sustainable Architectural Decisions](https://www.infoq.com/articles/sustainable-architectural-design-decisions) by Zdun et al., for instance the Y-statement format suggested in that article.
-
-## Existing ADR Templates
-
-Many ADR formats exist, as shown at [@joelparkerhenderson's repository](https://github.com/joelparkerhenderson/architecture_decision_record):
+Numerous ADR formats exist, many of which are fearured in [@joelparkerhenderson's GitHub repository](https://github.com/joelparkerhenderson/architecture_decision_record):
 
 <!-- - Overview: [Architectural Decision Records](https://github.com/joelparkerhenderson/architecture_decision_record): collection of markdown (?) templates converted to Markdown -->
-- [MADR](https://adr.github.io/madr/): The Markdown Architecture Decision Records (MADR: `[ˈmæɾɚ]`). Lean ADRs to quickly document architectural decisions in code. Slogan: architectural decisions that [matter `[ˈmæɾɚ]`](https://en.wiktionary.org/wiki/matter#Pronunciation).
+- [MADR](https://adr.github.io/madr/): The Markdown Architecture Decision Records (MADR: `[ˈmæɾɚ]`) promotes lean ADRs to quickly document architectural decisions close to the code. 
 - [DecisionCapture](https://schubmat.github.io/DecisionCapture/): Templates for agile projects and explanation of the ADR universe, with [example](https://github.com/schubmat/DecisionCapture/blob/master/samples/samples_merged/samples_simpleTemplate_secondSprint.md).
 - cards42 has adopted the Y-statement template in its German [ADR card](https://cards42.org#adr); the English version is similar, but adds state information.
 - The [42010 architecture description (AD) template](http://www.iso-architecture.org/42010/templates/) for [ISO/IEC/IEEE 42010:2011](https://en.wikipedia.org/wiki/ISO/IEC_42010), the international standard for architecture descriptions of systems and software, suggests nine information items for ADRs its Appendix A. It also identifies areas to consider when identifying key decisions.
 
 A comparison of seven templates can be found in ["Architectural Decision Guidance Across Projects --- Problem Space Modeling, Decision Backlog Management and Cloud Computing Knowledge"](https://www.ost.ch/fileadmin/dateiliste/3_forschung_dienstleistung/institute/ifs/cloud-application-lab/admentor-wicsa2015ubmissionv11nc.pdf), a WICSA 2015 conference paper.
+
+### MADR 
+
+MADR is about architectural decisions that [matter `[ˈmæɾɚ]`](https://en.wiktionary.org/wiki/matter#Pronunciation). The project provides a full and a minimal template, both of which now come in an annotated and a bare format. The [template folder](https://github.com/adr/madr/tree/4.0.0/template) of the MADR repository contained these four Markdown template files.
 
 ### Y-Statements 
 
