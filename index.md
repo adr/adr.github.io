@@ -37,7 +37,16 @@ We think that the considered options with their pros and cons are crucial to und
 
 ## Relation of ADRs, MADR, and Others
 
-![ADR](ADR.png)
+```mermaid
+classDiagram
+  direction TB
+  class ADR {
+    <<abstract>>
+  }
+  ADR <|-- MADR
+  ADR <|-- YStatement
+  ADR <|-- Nygard
+```
 
 ## Sustainable Architectural Decisions
 
