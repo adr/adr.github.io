@@ -8,16 +8,16 @@ title: AD Practices
 
 ## AD Making
 
-Method selection and tailoring in DPR, the [Design Practice Repository](https://socadk.github.io/design-practice-repository/) on GitHub and the [Design Practice Reference](https://leanpub.com/dpr), a corresponding LeanPub e-Book. Architectural decision capturing is positioned as one of the essential activities in DPR.
+The [Design Practice Repository](https://socadk.github.io/design-practice-repository/) on GitHub and the [Design Practice Reference](https://leanpub.com/dpr), a corresponding LeanPub e-Book, feature an AD making and capturing activity, which is positioned as one of the essential activities in DPR.
 
-- [Decision-making ADRs: weightings are a work-around](https://jacquiread.com/posts/2024-09-11-decision-making-adrs-weightings-are-a-workaround/) is a blog post by Jacqui Read that offers some tips on how to make better architectural decisions.
+[Decision-making ADRs: weightings are a work-around](https://jacquiread.com/posts/2024-09-11-decision-making-adrs-weightings-are-a-workaround/) is a blog post by Jacqui Read that offers some tips on how to make better architectural decisions.
 
 ## Good ADRs --- and how to get to them
 
 *Disclaimer:*
 The lists on this page point at ADR capturing ptrsactices and related advice but do not necessarily endorse all of them. 
 
-Authored by one or more of the maintainers of `adr.github.io/` and the MADR project/template:
+### Authored by one or more of the maintainers of `adr.github.io/` and the MADR project/template:
 
 1. START [Definition of Ready for Architectural Decisions](https://ozimmer.ch/practices/2023/12/01/ADDefinitionOfReady.html)
 2. [Architectural Significance Test and Some Core Decisions](https://www.ozimmer.ch/practices/2020/09/24/ASRTestECSADecisions.html)
@@ -30,12 +30,12 @@ Authored by one or more of the maintainers of `adr.github.io/` and the MADR proj
 
 Most of the material referenced above is also available on [Medium](https://medium.com/olzzio/tagged/adr).
 
-Other articles: 
+### Third-party articles 
 
 - [Documenting Architecture Decisions](https://www.fabian-keller.de/blog/documenting-architecture-decisions), blog post by Fabian Kleiser
 - More will be featured in future versions of this page, suggestions are welcome!
 - *to be continued*
 
-## From Architectural Decision to Design/Any Decisions
+## From Architectural Decisions to Design/Any Decisions
 
 [From Architectural Decisions to Design Decisions](https://medium.com/olzzio/from-architectural-decisions-to-design-decisions-f05f6d57032b) and [ADR = Any Decision Record?](https://medium.com/olzzio/adr-any-decision-record-916d1b64b28d) are two blog posts proposing to extend the scope of ADRs.
