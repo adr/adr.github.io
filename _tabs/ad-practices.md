@@ -4,8 +4,6 @@ order: 4
 title: AD Practices
 ---
 
-# AD Practices 
-
 *Disclaimer:*
 The lists on this page point at ADR capturing practices and related advice but do not necessarily endorse all of them. 
 
