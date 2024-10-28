@@ -1,5 +1,6 @@
 ---
 layout: default
+mermaid: true
 ---
 # Architectural Decision Records (ADRs)
 
