@@ -30,7 +30,7 @@ The [Design Practice Repository](https://socadk.github.io/design-practice-reposi
 
 Most of the material referenced above is also available on [Medium](https://medium.com/olzzio/tagged/adr).
 
-### Third-party articles 
+### Third-party articles
 
 - [Documenting Architecture Decisions](https://www.fabian-keller.de/blog/documenting-architecture-decisions), blog post by Fabian Kleiser
 - More will be featured in future versions of this page, suggestions are welcome!
