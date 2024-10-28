@@ -1,5 +1,5 @@
 ---
-icon: fas fa-briefcase
+icon: fas fa-check-circle
 order: 4
 title: AD Practices
 ---
