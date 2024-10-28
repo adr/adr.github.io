@@ -51,7 +51,7 @@ classDiagram
 
 ### MADR
 
-MADR is about architectural decisions that [matter `[ˈmæɾɚ]`](https://en.wiktionary.org/wiki/matter#Pronunciation). The project provides a full and a minimal template, both of which now come in an annotated and a bare format. The [template folder](https://github.com/adr/madr/tree/4.0.0/template) of the MADR repository contains these four Markdown template files.
+MADR is about architectural decisions that [matter `[ˈmæɾɚ]`](https://en.wiktionary.org/wiki/matter#Pronunciation). The project provides a [full](https://github.com/adr/madr/blob/4.0.0/template/adr-template.md?plain=1) and a [minimal template](https://github.com/adr/madr/blob/4.0.0/template/adr-template-minimal.md?plain=1), both of which now come in an [annotated and a bare format](https://github.com/adr/madr/tree/4.0.0/template#decisions).
 
 ### Y-Statements
 
