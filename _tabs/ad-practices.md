@@ -1,6 +1,6 @@
 ---
 icon: fas fa-check-circle
-order: 4
+order: 1
 title: AD Practices
 ---
 
