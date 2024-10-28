@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Architectural Decision Records (ADRs)
 
 An [Architectural Decision (AD)](https://en.wikipedia.org/wiki/Architectural_decision) is a justified design choice that addresses a functional or non-functional requirement that is architecturally significant.
@@ -137,7 +140,3 @@ For a more detailed list for tooling for MADR, please head to <https://adr.githu
 - [ADRs and Architecture Stories](https://www.developertoarchitect.com/lessons/lesson168.html) is a short video series by Mark Richards explaining ADRs.
 
 <!-- - [Work by Daniel Popescu](https://scholar.google.com/citations?user=dASv28sAAAAJ) -->
-
-## Contribute
-
-To improve this page, head to <https://github.com/adr/adr.github.io>, edit `index.md`, and submit a pull request.
