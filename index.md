@@ -19,8 +19,6 @@ The aim of the [GitHub adr organization](https://github.com/adr) is to:
 2. Strengthen the tooling around ADRs, in support of agile practices as well as iterative and incremental engineering processes.
 3. Provide pointers to public knowledge in the context of AKM and ADRs.
 
-<!-- > Note: The term "architecture decision record" can be used interchangeably. -->
-
 The repository for the Website of the ADR organization is [https://github.com/adr/adr.github.io](https://github.com/adr/adr.github.io).
 
 ## ADRs in the Media
@@ -32,7 +30,7 @@ The repository for the Website of the ADR organization is [https://github.com/ad
 - (in German) [Gut dokumentiert: Architecture Decision Records](https://www.heise.de/hintergrund/Gut-dokumentiert-Architecture-Decision-Records-4664988.html) by [@obfischer](https://github.com/obfischer) published at [heise online](https://www.heise.de/).
 
 <!-- markdownlint-disable-next-line MD022 -->
-## ADR Templates <!-- Lightweight ADRs Should be Adopted -->
+## ADR Templates
 
 A "lightweight" ADR consists of [title, status, context, decision, and consequences](https://github.com/joelparkerhenderson/architecture-decision-record/blob/main/locales/en/templates/decision-record-template-by-michael-nygard/index.md) according to [@mtnygard](https://github.com/mtnygard). <!-- From Nygard post: "Context This section describes the forces at play, including technological, political, social, and project local." -->
 
