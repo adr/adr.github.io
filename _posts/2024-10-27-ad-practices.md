@@ -1,6 +1,7 @@
 ---
 title: AD Practices
 toc: true
+categories: [adr]
 ---
 
 > The lists on this page point at ADR capturing practices and related advice but do not necessarily endorse all of them.

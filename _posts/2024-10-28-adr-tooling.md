@@ -1,6 +1,7 @@
 ---
 title: Decision Capturing Tools
 toc: true
+categories: [adr]
 ---
 
 > The following lists are rather inclusive and sorted alphabetically.
