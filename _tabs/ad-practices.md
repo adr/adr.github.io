@@ -4,7 +4,10 @@ order: 4
 title: AD Practices
 ---
 
-# AD Management Practices 
+# AD Practices 
+
+*Disclaimer:*
+The lists on this page point at ADR capturing practices and related advice but do not necessarily endorse all of them. 
 
 [Timing Architectural Decisions](https://ozimmer.ch/assets/presos/ZIO-ITARCKeynoteTADv101p.pdf), a presentation given at the annual Swedish IT architect conference ITARC features many of the practices collected on this page. 
 
@@ -16,12 +19,9 @@ The [Design Practice Repository](https://socadk.github.io/design-practice-reposi
 
 ## Good ADRs --- and How to Get to Them
 
-*Disclaimer:*
-The lists on this page point at ADR capturing ptrsactices and related advice but do not necessarily endorse all of them. 
-
 ### Authored by one or more of the maintainers of `adr.github.io/` and the MADR project/template:
 
-1. START [Definition of Ready for Architectural Decisions](https://ozimmer.ch/practices/2023/12/01/ADDefinitionOfReady.html)
+1. [Definition of Ready for Architectural Decisions](https://ozimmer.ch/practices/2023/12/01/ADDefinitionOfReady.html), suggesting five criteria abbreviated as START. 
 2. [Architectural Significance Test and Some Core Decisions](https://www.ozimmer.ch/practices/2020/09/24/ASRTestECSADecisions.html)
 3. [How to create ADRs — and how not to](https://www.ozimmer.ch/practices/2023/04/03/ADRCreation.html) collects good practices and anti-patterns.
 4. [The Markdown ADR (MADR) Template Explained and Distilled](https://www.ozimmer.ch/practices/2022/11/22/MADRTemplatePrimer.html)

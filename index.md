@@ -5,7 +5,7 @@ mermaid: true
 
 # Architectural Decision Records (ADRs)
 
-## Motivation and Definitons
+## Motivation and Definitions
 
 An [Architectural Decision (AD)](https://en.wikipedia.org/wiki/Architectural_decision) is a justified design choice that addresses a functional or non-functional requirement that is architecturally significant.
 An [Architecturally Significant Requirement (ASR)](https://en.wikipedia.org/wiki/Architecturally_significant_requirements) is a requirement that has a measurable effect on the architecture and quality of a software and/or hardware system.
