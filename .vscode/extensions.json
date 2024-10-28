@@ -1,3 +1,7 @@
 {
-  "recommendations": ["ms-vscode-remote.remote-containers"]
+  "recommendations": [
+    "davidanson.vscode-markdownlint",
+    "ltex-plus.vscode-ltex-plus",
+    "ms-vscode-remote.remote-containers"
+  ]
 }
