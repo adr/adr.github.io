@@ -64,11 +64,11 @@ Numerous ADR formats exist, many of which are featured in [@joelparkerhenderson'
 
 A comparison of seven templates can be found in ["Architectural Decision Guidance Across Projects --- Problem Space Modeling, Decision Backlog Management and Cloud Computing Knowledge"](https://www.ost.ch/fileadmin/dateiliste/3_forschung_dienstleistung/institute/ifs/cloud-application-lab/admentor-wicsa2015ubmissionv11nc.pdf), a WICSA 2015 conference paper.
 
-### MADR 
+### MADR
 
 MADR is about architectural decisions that [matter `[ˈmæɾɚ]`](https://en.wiktionary.org/wiki/matter#Pronunciation). The project provides a full and a minimal template, both of which now come in an annotated and a bare format. The [template folder](https://github.com/adr/madr/tree/4.0.0/template) of the MADR repository contains these four Markdown template files.
 
-### Y-Statements 
+### Y-Statements
 
 In short, the Y-statement is as follows:
 
@@ -85,7 +85,6 @@ The long form of it is as follows (extra section "because"):
 > because `<additional rationale>`.
 
 You can find more explanations and examples on Medium: [Y-Statements - A Light Template for Architectural Decision Capturing](https://medium.com/@docsoc/y-statements-10eb07b5a177).
-
 
 ## Decision Capturing Tools
 
@@ -147,5 +146,3 @@ More background information and ADR guidance is available:
 <!-- - [Work by Daniel Popescu](https://scholar.google.com/citations?user=dASv28sAAAAJ) -->
 
 Additional pointers and resources can be found on the web page [Architectural Knowledge Management (AKM)](https://www.ost.ch/en/research-and-consulting-services/computer-science/ifs-institute-for-software-new/cloud-application-lab/architectural-knowledge-management-akm).
-
-
