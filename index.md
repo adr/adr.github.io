@@ -43,9 +43,9 @@ classDiagram
   class ADR {
     <<abstract>>
   }
+  ADR <|-- NygardADR
   ADR <|-- MADR
   ADR <|-- Y-Statement
-  ADR <|-- NygardADR
   ADR <|-- OtherADRTemplate
 ```
 
