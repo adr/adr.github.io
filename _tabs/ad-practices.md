@@ -4,8 +4,8 @@ order: 1
 title: AD Practices
 ---
 
-*Disclaimer:*
-The lists on this page point at ADR capturing practices and related advice but do not necessarily endorse all of them. 
+> The lists on this page point at ADR capturing practices and related advice but do not necessarily endorse all of them.
+{: .prompt-info }
 
 [Timing Architectural Decisions](https://ozimmer.ch/assets/presos/ZIO-ITARCKeynoteTADv101p.pdf), a presentation given at the annual Swedish IT architect conference ITARC features many of the practices collected on this page. 
 
