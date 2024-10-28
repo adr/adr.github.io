@@ -42,10 +42,6 @@ A "lightweight" ADR consists of [title, status, context, decision, and consequen
 
 We think that the considered options with their pros and cons are also crucial to understand the reason of a chosen option. [MADR](https://adr.github.io/madr/). Therefore, the Markdown Any/Architectural Decision Records (MADR, pronounced `[ˈmæɾɚ]`) project, located in the adr organization at GitHub, includes such tradeoff analysis information. It also adds additional metadata.
 
-<!-- ## Sustainable Architectural Decisions -->
-
-The work in the adr organization is based on the guidelines and principles in [Sustainable Architectural Decisions](https://www.infoq.com/articles/sustainable-architectural-design-decisions) by Zdun et al., for instance the Y-statement format suggested in that article.
-
 The relation of the Nygardian ADR structure, MADR, Y-Statements, and other templates is shown in the following UML class diagram:
 
 ```mermaid
@@ -60,7 +56,7 @@ classDiagram
   ADR <|-- OtherADRTemplate
 ```
 
-Numerous ADR formats exist, many of which are fearured in [@joelparkerhenderson's GitHub repository](https://github.com/joelparkerhenderson/architecture_decision_record):
+Numerous ADR formats exist, many of which are featured in [@joelparkerhenderson's GitHub repository](https://github.com/joelparkerhenderson/architecture_decision_record). A few of them are:
 
 <!-- - Overview: [Architectural Decision Records](https://github.com/joelparkerhenderson/architecture_decision_record): collection of markdown (?) templates converted to Markdown -->
 - [MADR](https://adr.github.io/madr/): The Markdown Architecture Decision Records (MADR: `[ˈmæɾɚ]`) promotes lean ADRs to quickly document architectural decisions close to the code. 
@@ -72,7 +68,7 @@ A comparison of seven templates can be found in ["Architectural Decision Guidanc
 
 ### MADR 
 
-MADR is about architectural decisions that [matter `[ˈmæɾɚ]`](https://en.wiktionary.org/wiki/matter#Pronunciation). The project provides a full and a minimal template, both of which now come in an annotated and a bare format. The [template folder](https://github.com/adr/madr/tree/4.0.0/template) of the MADR repository contained these four Markdown template files.
+MADR is about architectural decisions that [matter `[ˈmæɾɚ]`](https://en.wiktionary.org/wiki/matter#Pronunciation). The project provides a full and a minimal template, both of which now come in an annotated and a bare format. The [template folder](https://github.com/adr/madr/tree/4.0.0/template) of the MADR repository contains these four Markdown template files.
 
 ### Y-Statements 
 
@@ -139,6 +135,11 @@ For a more detailed list for tooling for MADR, please head to <https://adr.githu
 
 ## More Information
 
+<!-- ## Sustainable Architectural Decisions -->
+The work in the adr organization is based on the guidelines and principles in [Sustainable Architectural Decisions](https://www.infoq.com/articles/sustainable-architectural-design-decisions) by Zdun et al., for instance the Y-statement format suggested in that article. 
+
+More background information and ADR guidance is available: 
+
 - [Architectural Decisions — The Making Of](https://www.ozimmer.ch/practices/2020/04/27/ArchitectureDecisionMaking.html) provides a history on architecture decision recording since the late 1990, as well as examples and guidance for provoding decision rationale.
 - [Documenting Architecture Decisions](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions.html) is the blog post by Michael Nygard that popularized the concept.
 - [Architectural Decision Records (ADR): Open & Transparent Decision History](https://openpracticelibrary.com/practice/architectural-decision-records-adr/) is a practice in the Open Practice Library.
@@ -147,6 +148,6 @@ For a more detailed list for tooling for MADR, please head to <https://adr.githu
 - [ADRs and Architecture Stories](https://www.developertoarchitect.com/lessons/lesson168.html) is part of a video series by Mark Richards explaining ADRs, starting from Nygard's template.
 <!-- - [Work by Daniel Popescu](https://scholar.google.com/citations?user=dASv28sAAAAJ) -->
 
-More pointers and resources can be found on the web page [Architectural Knowledge Management (AKM)](https://www.ost.ch/en/research-and-consulting-services/computer-science/ifs-institute-for-software-new/cloud-application-lab/architectural-knowledge-management-akm).
+Additional pointers and resources can be found on the web page [Architectural Knowledge Management (AKM)](https://www.ost.ch/en/research-and-consulting-services/computer-science/ifs-institute-for-software-new/cloud-application-lab/architectural-knowledge-management-akm).
 
 
