@@ -12,7 +12,7 @@ The [Design Practice Repository](https://socadk.github.io/design-practice-reposi
 
 [Decision-making ADRs: weightings are a work-around](https://jacquiread.com/posts/2024-09-11-decision-making-adrs-weightings-are-a-workaround/) is a blog post by Jacqui Read that offers some tips on how to make better architectural decisions.
 
-## Good ADRs --- and how to get to them
+## Good ADRs --- and How to Get to Them
 
 *Disclaimer:*
 The lists on this page point at ADR capturing ptrsactices and related advice but do not necessarily endorse all of them. 
