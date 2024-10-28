@@ -32,7 +32,7 @@ The repository for the Website of the ADR organization is [https://github.com/ad
 ## ADR Templates
 
 A "lightweight" ADR consists of [title, status, context, decision, and consequences](https://github.com/joelparkerhenderson/architecture-decision-record/blob/main/locales/en/templates/decision-record-template-by-michael-nygard/index.md) according to [@mtnygard](https://github.com/mtnygard). <!-- From Nygard post: "Context This section describes the forces at play, including technological, political, social, and project local." -->
-We think that the _considered options_ with their pros and cons are also crucial to understand the reason of a chosen option. [MADR](https://adr.github.io/madr/). Therefore, the Markdown Architectural Decision Records (MADR) projec includes such tradeoff analysis information. It also adds additional metadata such as decision makers and confirmation.
+We think that the *considered options* with their pros and cons are also crucial to understand the reason of a chosen option. [MADR](https://adr.github.io/madr/). Therefore, the Markdown Architectural Decision Records (MADR) projec includes such tradeoff analysis information. It also adds additional metadata such as decision makers and confirmation.
 
 The relation of the MADR, Nygardian ADR structure, Y-Statements, and other templates is shown in the following UML class diagram:
 
