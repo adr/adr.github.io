@@ -6,6 +6,8 @@ title: AD Practices
 
 # AD Management Practices 
 
+[Timing Architectural Decisions](https://ozimmer.ch/assets/presos/ZIO-ITARCKeynoteTADv101p.pdf), a presentation given at the annual Swedish IT architect conference ITARC features many of the practices collected on this page. 
+
 ## AD Making
 
 The [Design Practice Repository](https://socadk.github.io/design-practice-repository/) on GitHub and the [Design Practice Reference](https://leanpub.com/dpr), a corresponding LeanPub e-Book, feature an AD making and capturing activity, which is positioned as one of the essential activities in DPR.
