@@ -91,7 +91,7 @@ You can find more explanations and examples on Medium: [Y-Statements - A Light T
 <!-- ## Sustainable Architectural Decisions -->
 The work in the adr organization is based on the guidelines and principles in [Sustainable Architectural Decisions](https://www.infoq.com/articles/sustainable-architectural-design-decisions) by Zdun et al., for instance the Y-statement format suggested in that article. 
 
-More background information and ADR guidance is available: 
+More general background information and ADR guidance is available:
 
 - [Architectural Decisions — The Making Of](https://www.ozimmer.ch/practices/2020/04/27/ArchitectureDecisionMaking.html) provides a history on architecture decision recording since the late 1990, as well as examples and guidance for provoding decision rationale.
 - [Documenting Architecture Decisions](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions.html) is the blog post by Michael Nygard that popularized the concept.
