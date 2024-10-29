@@ -1,8 +1,7 @@
 ---
+layout: default
 title: Architectural Decision Records (ADRs)
-pin: true
 toc: true
-categories: [adr]
 ---
 
 ## Motivation and Definitions
