@@ -57,7 +57,7 @@ jobs:
         run: |
           bundle exec htmlproofer _site \
             \-\-disable-external \
-            \-\-ignore-urls "/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/,http://www.iso-architecture.org/42010/templates/,\/categories\/"
+            \-\-ignore-urls "/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/,http://www.iso-architecture.org/42010/templates/"
 
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v3
