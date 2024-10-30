@@ -1,4 +1,4 @@
-# adr.git.hub.io
+# adr.github.io
 
 This is the source code of <https://adr.github.io>.
 It is based on the [Chirpy](https://chirpy.cotes.page/) theme.
