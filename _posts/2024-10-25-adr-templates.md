@@ -36,7 +36,7 @@ The blog post from 2011 that suggests this structure is [here](https://cognitect
 
 In short, the Y-statement is as follows:
 
-> In the context of `<use case/user story u>`, facing `<concern c>` we decided for `<option o>` to achieve `<quality q>`, accepting `<downside d>`.
+> In the context of `<use case/user story>`, facing `<concern>` we decided for `<option>` to achieve `<quality>`, accepting `<downside>`.
 
 The long form of it is as follows (extra section "because"):
 
