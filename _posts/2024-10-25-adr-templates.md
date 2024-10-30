@@ -26,7 +26,7 @@ MADR is about architectural decisions that *matter* ([`[ˈmæɾɚ]`](https://en.
 
 We think that the *considered options* with their pros and cons are crucial to understand the reasons for choosing a particular design. Therefore, the [Markdown Architectural Decision Records (MADR)](https://adr.github.io/madr/) project in this organization includes such tradeoff analysis information. It also suggests metadata such as decision makers and confirmation in addition to decision status.
 
-## Nygard ADR
+### Nygard ADR
 
 An ADR consists of title, status, context, decision, and consequences according to "Documenting Architecture Decisions" by [@mtnygard](https://github.com/mtnygard). <!-- From the Nygard post: "Context This section describes the forces at play, including technological, political, social, and project local." and "We should use a lightweight text formatting language like Markdown or Textile." --> 
 
@@ -40,9 +40,9 @@ In short, the Y-statement is as follows:
 
 The long form of it is as follows (extra section "because"):
 
-> In the context of `<use case/user story u>`,
-> facing `<concern c>`
-> we decided for `<option o>`
+> In the context of `<use case/user story>`,
+> facing `<concern>`,
+> we decided for `<option>`
 > and neglected `<other options>`,
 > to achieve `<system qualities/desired consequences>`,
 > accepting `<downside/undesired consequences>`,
