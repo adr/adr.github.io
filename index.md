@@ -9,7 +9,8 @@ toc: true
 An [Architectural Decision (AD)](https://en.wikipedia.org/wiki/Architectural_decision) is a justified design choice that addresses a functional or non-functional requirement that is architecturally significant.
 An [Architecturally Significant Requirement (ASR)](https://en.wikipedia.org/wiki/Architecturally_significant_requirements) is a requirement that has a measurable effect on the architecture and quality of a software and/or hardware system.
 An *Architectural Decision Record (ADR)* captures a single AD and its rationale;
-the collection of ADRs created and maintained in a project constitute its *decision log*.
+Put it simply, ADR can help you understand the reasons for a chosen architectural decision, along with its trade-offs and consequences.
+The collection of ADRs created and maintained in a project constitute its *decision log*.
 All these are within the topic of Architectural Knowledge Management (AKM), but ADR usage can be extended to design and other decisions ("any decision record").
 
 The aim of the [GitHub adr organization](https://github.com/adr) is to:
@@ -20,7 +21,7 @@ The aim of the [GitHub adr organization](https://github.com/adr) is to:
 
 ## ADRs in the Media
 
-- The [Azure Well-Architected Framework](https://learn.microsoft.com/en-us/azure/well-architected/architect-role/architecture-decision-record) at Microsoft Ignite features ADRs and this website (10/11/2024).
+- The [Azure Well-Architected Framework](https://learn.microsoft.com/en-us/azure/well-architected/architect-role/architecture-decision-record) features ADRs and this website (10/11/2024).
 - [Love Unrequited: The Story of Architecture, Agile, and How Architecture Decision Records Brought Them Together](https://ieeexplore.ieee.org/document/9801811), Michael Keeling in the Pragmatic Designer column of IEEE Software Vol. 39 Issue 4 (2022) ([PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9801811))
 - Architectural decision capturing is positioned as one of the essential activities in [Design Practice Reference](https://leanpub.com/dpr), a LeanPub e-Book.
 - Chapter 3 of ["Patterns for API Design: Simplifying Integration with Loosely Coupled Message Exchanges"](https://api-patterns.org/book/) in the Addison Wesley Signature Series at Pearson features six narratives guiding through the conceptual level of API design: 29 recurring decisions with  options and criteria. Learn more in this [blog post](https://medium.com/nerd-for-tech/api-patterns-website-redesigned-and-sample-book-chapter-available-df9daf4b5e15).
