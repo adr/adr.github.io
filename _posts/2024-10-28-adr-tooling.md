@@ -36,7 +36,7 @@ categories: [adr]
   - Java rewrite: [adr-j](https://github.com/adoble/adr-j)
   - ESM Node.js port: [adr-tools](https://github.com/meza/adr-tools)
   - Node.js rewrite: [adr](https://github.com/phodal/adr)
-  - PHP version: [phpadr](https://github.com/globtec/phpadr)
+  - PHP version: [phpadr](https://github.com/bellangelo/phpadr)
   - Powershell module: [adr-ps](https://github.com/rdagumampan/adr-ps)
   - Python rewrite: [adr-tools-python](https://pypi.org/project/adr-tools-python/)
   - Another Powershell module: [ArchitectureDecisionRecords](https://github.com/ajoberstar/ArchitectureDecisionRecords)
