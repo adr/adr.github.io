@@ -39,12 +39,17 @@ categories: [adr]
   - PHP version: [phpadr](https://github.com/bellangelo/phpadr)
   - Powershell module: [adr-ps](https://github.com/rdagumampan/adr-ps)
   - Python rewrite: [adr-tools-python](https://pypi.org/project/adr-tools-python/)
+  - Python rewrite: [ADR-py](https://github.com/AlTosterino/ADR-py)
   - Another Powershell module: [ArchitectureDecisionRecords](https://github.com/ajoberstar/ArchitectureDecisionRecords)
   - Rust rewrite: [adrs](https://github.com/joshrotenberg/adrs)
 - [adr-viewer](https://github.com/mrwilson/adr-viewer) - python application to generate a website from a set of ADRs.
 - [architectural-decision](https://github.com/cspray/architectural-decision): PHP library to create ADRs using PHP8 Attributes.
 - [Loqbooq](https://loqbooq.app): Commerical Web App with Slack integration to record ADR-inspired decision logs
 - [Talo](https://github.com/canpolat/talo): CLI (and dotnet tool) to manage and export ADRs, RFCs and custom software design document types.
+
+#### Renderings
+
+- [adr-viewer](https://pypi.org/project/adr-viewer/) - renders ADRs in a web page
 
 ## Tooling close to the code
 
