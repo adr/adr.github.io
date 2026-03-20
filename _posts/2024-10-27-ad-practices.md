@@ -11,9 +11,9 @@ categories: [adr]
 
 ## AD Making
 
-The [Design Practice Repository](https://socadk.github.io/design-practice-repository/) on GitHub and the [Design Practice Reference](https://leanpub.com/dpr), a corresponding LeanPub e-Book, feature an AD making and capturing activity, which is positioned as one of the essential activities in DPR (Mirko Stocker and Olaf Zimmermann, 2021-2024).
+The [Design Practice Repository (DPR)](https://socadk.github.io/design-practice-repository/) on GitHub and the [DPR e-Book](https://leanpub.com/dpr) on LeanPub feature an [AD making and capturing activity](https://socadk.github.io/design-practice-repository/activities/DPR-ArchitecturalDecisionCapturing.html) as an essential activity (Mirko Stocker and Olaf Zimmermann, 2021-2024).
 
-[Decision-making ADRs: weightings are a work-around](https://jacquiread.com/posts/2024-09-11-decision-making-adrs-weightings-are-a-workaround/) is a blog post by Jacqui Read that offers some tips on how to make better architectural decisions (2024).
+[Decision-making ADRs: weightings are a work-around](https://jacquiread.com/posts/2024-09-11-decision-making-adrs-weightings-are-a-workaround/) is a blog post by Jacqui Read that offers some tips on how to make better architectural decisions (2024). Example: "normalise your criteria DOWN to the same level of abstraction".
 
 Things can go wrong. The blog post [Seven Architectural Decision Making Fallacies (and Ways Around Them)](https://medium.com/olzzio/seven-architectural-decision-making-fallacies-and-ways-around-them-7b35ea1be4f9) identifies decision making habits with room for improvement (Olaf Zimmermann, 2025).
 
