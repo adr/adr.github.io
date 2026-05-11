@@ -21,7 +21,8 @@ The aim of the [GitHub adr organization](https://github.com/adr) is to:
 
 ## ADRs in the Media
 
-- The [Azure Well-Architected Framework](https://learn.microsoft.com/en-us/azure/well-architected/architect-role/architecture-decision-record) features ADRs and this website (10/11/2024).
+- (in German) [Architekturentscheidungen sichtbar und nachvollziehbar gestalten](assets/2026-03-10%20-%20ADR%2C%20MADR%2C%20eADR%20-%20JavaLand%202026.pdf) at [JavaLand 2026](https://www.javaland.eu/) (2026-03-10).
+- The [Azure Well-Architected Framework](https://learn.microsoft.com/en-us/azure/well-architected/architect-role/architecture-decision-record) features ADRs and this website (2024-11-10).
 - [Love Unrequited: The Story of Architecture, Agile, and How Architecture Decision Records Brought Them Together](https://ieeexplore.ieee.org/document/9801811), Michael Keeling in the Pragmatic Designer column of IEEE Software Vol. 39 Issue 4 (2022) ([PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9801811))
 - Architectural decision capturing is positioned as one of the essential activities in [Design Practice Reference](https://leanpub.com/dpr), a LeanPub e-Book.
 - Chapter 3 of ["Patterns for API Design: Simplifying Integration with Loosely Coupled Message Exchanges"](https://api-patterns.org/book/) in the Addison Wesley Signature Series at Pearson features six narratives guiding through the conceptual level of API design: 29 recurring decisions with  options and criteria. Learn more in this [blog post](https://medium.com/nerd-for-tech/api-patterns-website-redesigned-and-sample-book-chapter-available-df9daf4b5e15).
