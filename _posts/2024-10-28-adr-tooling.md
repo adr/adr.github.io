@@ -6,7 +6,6 @@ categories: [adr]
 
 > The following lists are rather inclusive and sorted alphabetically.
 > Please find out about the status and the maturity of the list entries for yourself by following the links.
-> We are happy to include more candidate assets here.
 {: .prompt-info }
 
 ## Tooling to create and maintain decision files
