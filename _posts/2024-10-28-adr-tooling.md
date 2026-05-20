@@ -60,6 +60,7 @@ categories: [adr]
 
 - [ArchUnit](https://github.com/TNG/ArchUnit): unit tests for architecture
 - [docToolchain](https://doctoolchain.github.io/docToolchain/): docToolchain is an implementation of the [docs-as-code](https://www.writethedocs.org/guide/docs-as-code/) approach for software architecture plus some additional automation.
+- [Mneme HQ](https://github.com/TheoV823/mneme): enforces ADRs and architectural decisions in AI-assisted development. Hook-based pre-generation checks for Claude Code, Cursor, and Copilot — blocks violations before the AI agent writes the code.
 - [Structurizr](https://www.structurizr.com/): Structurizr is a collection of tooling to help you visualise, document and explore your software architecture using the [C4 model](https://c4model.com/).
 
 ## Interesting, but unmaintained tooling
