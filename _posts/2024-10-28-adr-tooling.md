@@ -13,6 +13,7 @@ categories: [adr]
 ### Any template
 
 - [ADG (Architectural Decision Guidance)](https://github.com/adr/ad-guidance-tool), a command-line tool written in Go for modeling, managing, and reusing architectural decisions in a lightweight and structured way (step-by-step usage example in this [Medium story](https://medium.com/olzzio/adg-a-light-architectural-decision-guidance-and-management-tool-902fd65d2185)). Template options: Nygard, MADR (basic), QOC.
+- [adr-kit](https://github.com/rvdbreemen/adr-kit), an ADR toolkit for AI coding agents (Claude Code plugin plus dependency-free Python CLIs, also usable from Cursor, Copilot, and Codex CLI). Beyond authoring, it enforces accepted decisions against diffs at commit and PR time, detects decision drift and stale ADRs, ranks the ADRs relevant to a coding task, and ships a small MCP server. Stores a Nygard-derived seven-section template; imports MADR and Nygard sets via guided migration.
 - [dotnet-adr](https://github.com/endjin/dotnet-adr) - A cross platform .NET Global Tool for creating and managing Architectural Decision Records (ADR).
 - [ReflectRally](https://reflectrally.com), a collaborative web-based application for creating, discussing and maintaining Architectural Decision Records with structured workflows, ownership and review processes.
 
