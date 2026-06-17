@@ -57,6 +57,12 @@ categories: [adr]
 
 - [(Java) Embedded Architectural Decision Records](https://github.com/adr/e-adr#embedded-architectural-decision-records), which shows how a distributed AD log can be embedded in Java Code via ADR annotations.
 
+## Decision guardrails for pull requests
+
+- [Decision Guardian](https://github.com/DecispherHQ/decision-guardian) : GitHub Action + CLI that automatically surfaces relevant ADRs as PR comments when protected files change. Flexible glob/regex/JSON-path matching, O(log n) performance, zero-config for most repos.
+This works for any kind of decision record: architecture decisions, data decisions, compliance decisions, clinical and medical decisions, security decisions, and more.
+Works with any CI system (GitLab, Jenkins, CircleCI) and as a pre-commit hook. Open source. MIT license.
+
 ## Tooling related to architecture management
 
 - [ArchUnit](https://github.com/TNG/ArchUnit): unit tests for architecture
