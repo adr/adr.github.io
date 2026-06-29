@@ -62,4 +62,4 @@ Finally, you can find more explanations and examples on Medium: [Y-Statements - 
 
 Numerous other ADR formats exist, many of which are also featured in [@joelparkerhenderson's GitHub repository](https://github.com/joelparkerhenderson/architecture_decision_record).
 
-The [template](http://www.iso-architecture.org/42010/templates/) for [ISO/IEC/IEEE 42010:2011](https://en.wikipedia.org/wiki/ISO/IEC_42010), the international standard for architecture descriptions of systems and software emgineering, suggests nine information items for ADRs its Appendix A. It also identifies areas to consider when identifying key decisions.
+The [template](http://www.iso-architecture.org/42010/templates/) for [ISO/IEC/IEEE 42010:2011](https://en.wikipedia.org/wiki/ISO/IEC_42010), the international standard for architecture descriptions of systems and software engineering, suggests nine information items for ADRs its Appendix A. It also identifies areas to consider when identifying key decisions.
