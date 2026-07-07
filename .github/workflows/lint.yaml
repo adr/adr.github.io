@@ -32,7 +32,7 @@ jobs:
         with:
           node-version: 22
       - name: Install dependencies
-        run: npm ci
+        run: npm install
       - name: textlint
         run: npm run textlint
   vale-lint:
