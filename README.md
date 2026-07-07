@@ -8,7 +8,7 @@ It is based on the [Chirpy](https://chirpy.cotes.page/) theme.
 ### Updating the theme
 
 1. `git remote add chirpy-starter git@github.com:cotes2020/chirpy-starter.git`
-2. `get fetch chirpy-starter`
+2. `git fetch chirpy-starter`
 3. `git merge chirpy-starter/main`
 
 ### Icons missing
