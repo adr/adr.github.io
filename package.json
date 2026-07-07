@@ -6,6 +6,6 @@
     "textlint-rule-common-misspellings": "^1.0.1"
   },
   "scripts": {
-    "textlint": "textlint -f github \"en/**/*.md\""
+    "textlint": "textlint -f github \"**/*.md\""
   }
 }
