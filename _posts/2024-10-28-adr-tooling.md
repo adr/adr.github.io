@@ -16,6 +16,7 @@ categories: [adr]
 - [dotnet-adr](https://github.com/endjin/dotnet-adr) - A cross platform .NET Global Tool for creating and managing Architectural Decision Records (ADR).
 - [ReflectRally](https://reflectrally.com), a collaborative web-based application for creating, discussing and maintaining Architectural Decision Records with structured workflows, ownership and review processes.
 - [adr.zone](https://www.adr.zone), a web-based ADR generator with multi-format support (Nygard, MADR, Y-Statement, ISO/IEC/IEEE 42010-inspired), examples, and a simple API for generating Architecture Decision Records.
+- [Archcore](https://github.com/archcore-ai/cli), a git-native context engineering CLI and MCP server for AI coding agents that keeps specs, ADRs, rules, plans, and project knowledge in Git.
 
 ### MADR template
 
