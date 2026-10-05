@@ -59,6 +59,7 @@ categories: [adr]
 
 ## Tooling related to architecture management
 
+- [ADR Guard](https://github.com/chohan-sarmad-ali/delivery-gates): GitHub Action that fails a pull request when watched code paths change without an architecture decision record being added or updated; template-agnostic, explicit waiver markers, no dependencies
 - [ArchUnit](https://github.com/TNG/ArchUnit): unit tests for architecture
 - [docToolchain](https://doctoolchain.github.io/docToolchain/): docToolchain is an implementation of the [docs-as-code](https://www.writethedocs.org/guide/docs-as-code/) approach for software architecture plus some additional automation.
 - [Structurizr](https://www.structurizr.com/): Structurizr is a collection of tooling to help you visualise, document and explore your software architecture using the [C4 model](https://c4model.com/).
