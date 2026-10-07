@@ -16,6 +16,7 @@ categories: [adr]
 - [dotnet-adr](https://github.com/endjin/dotnet-adr) - A cross platform .NET Global Tool for creating and managing Architectural Decision Records (ADR).
 - [ReflectRally](https://reflectrally.com), a collaborative web-based application for creating, discussing and maintaining Architectural Decision Records with structured workflows, ownership and review processes.
 - [adr.zone](https://www.adr.zone), a web-based ADR generator with multi-format support (Nygard, MADR, Y-Statement, ISO/IEC/IEEE 42010-inspired), examples, and a simple API for generating Architecture Decision Records.
+- [quern](https://github.com/xag/quern), a Python decision ledger for projects built with AI agents: each decision, debt or hypothesis carries the alternatives rejected and a rule that goes red when its stated rationale stops holding, so the ledger is checked rather than only read; `quern brief` prints the entries that still bind for an agent to read at the start of a session. Apache-2.0, on PyPI.
 
 ### MADR template
 
