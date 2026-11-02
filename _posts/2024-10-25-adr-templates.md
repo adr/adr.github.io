@@ -37,7 +37,7 @@ We think that the *considered options* with their pros and cons are crucial to u
 
 An ADR consists of title, status, context, decision, and consequences according to "Documenting Architecture Decisions" by [@mtnygard](https://github.com/mtnygard). <!-- From the Nygard post: "Context This section describes the forces at play, including technological, political, social, and project local." and "We should use a lightweight text formatting language like Markdown or Textile." -->
 
-The original [blog post from 2011](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions) suggests this structure, and a [Markdown rendering](https://github.com/joelparkerhenderson/architecture-decision-record/blob/main/locales/en/templates/decision-record-template-by-michael-nygard/index.md) is also available.
+The original [blog post from 2011](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions) suggests this structure, and a [Markdown rendering](https://github.com/architecture-decision-record/architecture-decision-record/blob/main/locales/en-001/templates/decision-record-template-by-michael-nygard/index.md) is also available.
 
 ## Y-Statement
 
