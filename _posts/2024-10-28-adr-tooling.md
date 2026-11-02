@@ -14,6 +14,7 @@ categories: [adr]
 
 - [ADG (Architectural Decision Guidance)](https://github.com/adr/ad-guidance-tool), a command-line tool written in Go for modeling, managing, and reusing architectural decisions in a lightweight and structured way. Template options: Nygard, MADR (basic), QOC.
 - [dotnet-adr](https://github.com/endjin/dotnet-adr) - A cross platform .NET Global Tool for creating and managing Architectural Decision Records (ADR).
+- [Docflow](https://github.com/EvolveHQ/docflow), a set of agent skills for coding agents (Claude Code, Codex, Cursor, Copilot CLI, and others) that scaffolds an ADR catalogue, a plan queue, and AGENTS.md conventions into a repository, and authors, audits, and rolls up ADRs across one or several repositories. MIT license.
 - [ReflectRally](https://reflectrally.com), a collaborative web-based application for creating, discussing and maintaining Architectural Decision Records with structured workflows, ownership and review processes.
 - [adr.zone](https://www.adr.zone), a web-based ADR generator with multi-format support (Nygard, MADR, Y-Statement, ISO/IEC/IEEE 42010-inspired), examples, and a simple API for generating Architecture Decision Records.
 
