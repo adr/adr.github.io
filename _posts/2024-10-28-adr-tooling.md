@@ -46,6 +46,7 @@ categories: [adr]
   - Rust rewrite: [adrs](https://github.com/joshrotenberg/adrs)
 - [adr-viewer](https://github.com/mrwilson/adr-viewer) - python application to generate a website from a set of ADRs.
 - [architectural-decision](https://github.com/cspray/architectural-decision): PHP library to create ADRs using PHP8 Attributes.
+- [Decided](https://decisionrecords.app): Commercial Web App with Microsoft Teams integration that drafts ADRs from team decisions.
 - [Loqbooq](https://loqbooq.app): Commercial Web App with Slack integration to record ADR-inspired decision logs
 - [Talo](https://github.com/canpolat/talo): CLI (and dotnet tool) to manage and export ADRs, RFCs and custom software design document types.
 
