@@ -47,6 +47,7 @@ categories: [adr]
 - [adr-viewer](https://github.com/mrwilson/adr-viewer) - python application to generate a website from a set of ADRs.
 - [architectural-decision](https://github.com/cspray/architectural-decision): PHP library to create ADRs using PHP8 Attributes.
 - [Loqbooq](https://loqbooq.app): Commercial Web App with Slack integration to record ADR-inspired decision logs
+- [Moxie Docs ADR Generator](https://moxiedocs.com/adr-generator): Free browser-based form that generates Nygard-style ADRs (Title, Status, Date, Context, Decision, Consequences, optional Alternatives) as Markdown, with live preview and shareable links; no account required.
 - [Talo](https://github.com/canpolat/talo): CLI (and dotnet tool) to manage and export ADRs, RFCs and custom software design document types.
 
 #### Renderings
